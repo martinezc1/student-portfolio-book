@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.5.1",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "index.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.9.36",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    "_book/chapters/crystal-adote.html": {
+      "checksum": "929bdbbe131fe42aaf2cadd78e619243"
+    },
+    "_book/chapters/emma-tupone.html": {
+      "checksum": "8cb4e1285f39a1de91e5129911d6071e"
+    },
+    "_book/chapters/isley-jean-pierre.html": {
+      "checksum": "17bceda6c470ead57fa7cb7e7af42750"
+    },
+    "_book/chapters/jonah-dratfield.html": {
+      "checksum": "195e404fe5c98eb156585e8ed4db0e78"
+    },
+    "_book/chapters/joyce-escatel-flores.html": {
+      "checksum": "5d085dbda4185fbf3cb3276df94f7e69"
+    },
+    "_book/chapters/laura-rose-werner.html": {
+      "checksum": "8ab4a728b51bdcdcdd1f785e1769c485"
+    },
+    "_book/chapters/robert-hutto.html": {
+      "checksum": "478459f434ce334377bc2aacb6b9d2ee"
+    },
+    "_book/chapters/shannon-joyce.html": {
+      "checksum": "af5c6852731bbd2578931d863cfda4e6"
+    },
+    "_book/chapters/xinru-wang.html": {
+      "checksum": "5d3d16de9dcba68ed521755ea54885f4"
+    },
+    "_book/crystal-adote.html": {
+      "checksum": "11e847b08e52d63fd416c6d310cdc08c"
+    },
+    "_book/emma-tupone.html": {
+      "checksum": "bdadafef1a992b8c6289f493036f281b"
+    },
+    "_book/index.html": {
+      "checksum": "9d9465a36d5f6acdf7cc6f46c15abd3a"
+    },
+    "_book/isley-jean-pierre.html": {
+      "checksum": "32131a51a1e383c48bf4001e6df960ac"
+    },
+    "_book/jonah-dratfield.html": {
+      "checksum": "8063c2b1f371954409010221aefa68c9"
+    },
+    "_book/joyce-escatel-flores.html": {
+      "checksum": "a7664db5cd348615cbc9409789799a14"
+    },
+    "_book/laura-rose-werner.html": {
+      "checksum": "df3ae3ec5ac0c723e3d2efb89817afef"
+    },
+    "_book/robert-hutto.html": {
+      "checksum": "3d1c7febab3e56ccc45d0a3a4965c5f3"
+    },
+    "_book/search.json": {
+      "checksum": "427af5492cf3cd8bff2e6ea937b74c85"
+    },
+    "_book/shannon-joyce.html": {
+      "checksum": "2dbed25a9d16dacfb0b77283ad7512e9"
+    },
+    "_book/site_libs/bootstrap/bootstrap-0b40c880b30ccb356bd204e6870877fa.min.css": {
+      "checksum": "0b40c880b30ccb356bd204e6870877fa"
+    },
+    "_book/site_libs/bootstrap/bootstrap-0d3ac16015dd0859924b68075192f47b.min.css": {
+      "checksum": "0d3ac16015dd0859924b68075192f47b"
+    },
+    "_book/site_libs/bootstrap/bootstrap-5ccb035bea26c1e21f80f44cf7c27909.min.css": {
+      "checksum": "5ccb035bea26c1e21f80f44cf7c27909"
+    },
+    "_book/site_libs/bootstrap/bootstrap-93558b3e12745f7e9f77cf4e134c00d7.min.css": {
+      "checksum": "93558b3e12745f7e9f77cf4e134c00d7"
+    },
+    "_book/site_libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "886da841d7421705f715f600c5ff11bb"
+    },
+    "_book/site_libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "efe54401ef52214fd3b701e23ff88c5f"
+    },
+    "_book/site_libs/bootstrap/bootstrap.min.js": {
+      "checksum": "e2b09c06f0e714b6144a6788a28e3950"
+    },
+    "_book/site_libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "_book/site_libs/quarto-html/anchor.min.js": {
+      "checksum": "91bcf6cd1fd88fec3f109811e5fc3546"
+    },
+    "_book/site_libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "_book/site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css": {
+      "checksum": "845c23b38eaddc0f92fda52bfe77a8c8"
+    },
+    "_book/site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css": {
+      "checksum": "f418161beb48e0141c760e455f12af2c"
+    },
+    "_book/site_libs/quarto-html/quarto.js": {
+      "checksum": "6f4245742deb3cc92337dbe2701ccfe1"
+    },
+    "_book/site_libs/quarto-html/tabsets/tabsets.js": {
+      "checksum": "e8d6a8862b33ccc461f8fd532e05b365"
+    },
+    "_book/site_libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "_book/site_libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "_book/site_libs/quarto-nav/headroom.min.js": {
+      "checksum": "ace0360e576db9b6e7df48ac68ddbbf4"
+    },
+    "_book/site_libs/quarto-nav/quarto-nav.js": {
+      "checksum": "12d334846b27bdb493298c08277bdf7f"
+    },
+    "_book/site_libs/quarto-search/autocomplete.umd.js": {
+      "checksum": "b514204f2ef1ca7a8e2ad4579d263504"
+    },
+    "_book/site_libs/quarto-search/fuse.min.js": {
+      "checksum": "de7d60e4a6881074275feca14b84a49d"
+    },
+    "_book/site_libs/quarto-search/quarto-search.js": {
+      "checksum": "9c992af743ca88c8c5f650cf312c4e61"
+    },
+    "_book/xinru-wang.html": {
+      "checksum": "559365fd77e939ebe8c29c3ea83320a4"
+    },
+    "_quarto.yml": {
+      "checksum": "e2a41fc7319a421881b4dbbc56b0e7f2"
+    },
+    ".github/workflows/R-CMD-check.yaml": {
+      "checksum": "d14f3e2b8b194dbf524efa7c190699e4"
+    },
+    ".Rbuildignore": {
+      "checksum": "508ff8669206eb60f157b51cd6d448c1"
+    },
+    "chapters/crystal-adote.qmd": {
+      "checksum": "cc6716abff4023f0794aeb6441d384b2"
+    },
+    "chapters/emma-tupone.qmd": {
+      "checksum": "2fb1caa7e3c19fdccbaac4dc06d497e8"
+    },
+    "chapters/isley-jean-pierre.qmd": {
+      "checksum": "e2000c3edcea55450cbc79fb65597fd0"
+    },
+    "chapters/jonah-dratfield.qmd": {
+      "checksum": "65e6f97e341653de73c01014484f96db"
+    },
+    "chapters/joyce-escatel-flores.qmd": {
+      "checksum": "6983d422081596e1d33d32d3663256df"
+    },
+    "chapters/laura-rose-werner.qmd": {
+      "checksum": "ac5a76422427be27cc4a3e7f816e52ee"
+    },
+    "chapters/robert-hutto.qmd": {
+      "checksum": "09e6329505837f816ff455456f91a48f"
+    },
+    "chapters/shannon-joyce.qmd": {
+      "checksum": "f69236430ca907794a2535f5954fdb33"
+    },
+    "chapters/xinru-wang.qmd": {
+      "checksum": "7e214af0ae9736a302703ef9ff7019f3"
+    },
+    "cover.png": {
+      "checksum": "308012df3fa962ae61c7114806331a72"
+    },
+    "index.qmd": {
+      "checksum": "95d3521f3e74b0b251e816d0ec84d06a"
+    },
+    "LICENSE.md": {
+      "checksum": "dcd12884c5194cec877077513f0b2412"
+    },
+    "references.bib": {
+      "checksum": "82c1cc91cf544d383b6a5ad1b65a6feb"
+    },
+    "references.qmd": {
+      "checksum": "20d3273ad995f344fa1d144ca5d3ecf1"
+    }
+  },
+  "users": null
+}
