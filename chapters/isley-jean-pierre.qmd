@@ -1,0 +1,37 @@
+---
+title: "Isley Jean-Pierre"
+---
+
+## About the Author {#sec-isley}
+
+Isley is a graduate student at Brooklyn College whose work reflects a strong engagement with data analysis and reproducible research. Her portfolio represents the culmination of a semester of hands-on learning in R, showcasing both technical development and enthusiasm for applying these skills in future projects.
+
+## Learning Journey
+
+This portfolio brings together a series of assignments completed as part of a course in Reproducible Psychology Research. Each section highlights a different stage of the data analysis process, from foundational R scripting to more advanced statistical techniques and reproducible workflows.
+
+Over the course of the semester, Isley developed experience working with a range of analytical methods, including correlation analysis and ANOVA, while also building skills in creating and submitting work using R Markdown and Shiny. Her portfolio reflects not just individual assignments, but a continuous progression of learning and application.
+
+## Reflection & Growth
+
+This project represents the culmination of Isley’s work throughout the semester and stands out as one of the most meaningful and engaging assignments in the course. It captures both the breadth of skills she developed and her ability to bring them together into a cohesive, reproducible body of work.
+
+Each section of the portfolio tells the story of her growth—demonstrating how initial exposure to R evolved into the ability to perform analyses, build reproducible documents, and create interactive outputs.
+
+## Key Takeaways
+
+- Built a strong foundation in R programming and data analysis\
+- Applied statistical methods such as correlation and ANOVA\
+- Developed reproducible workflows using R Markdown\
+- Gained experience creating interactive outputs with Shiny\
+- Synthesized semester-long work into a cohesive portfolio
+
+## Looking Ahead
+
+Isley is excited to apply the skills she developed in this course to future projects. Her portfolio reflects both her current abilities and her readiness to continue building on this foundation.
+
+> “Each section tells the journey of what I have learned and what I hope to apply in my future projects.”
+
+## View Full Portfolio
+
+👉 [**Explore Isley’s Full Portfolio Book**](https://bookdown.org/content/44ef55ba-9048-4d19-a9b2-78c7ff7c557a/references.html)

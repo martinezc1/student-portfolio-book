@@ -1,0 +1,45 @@
+---
+title: "Xinru Wang"
+---
+
+## About the Author {#sec-xinru}
+
+Xinru is a graduate student at Brooklyn College who developed a strong foundation in data analysis and reproducible research over the course of the semester. Her work reflects both technical growth and an increasing confidence in applying R to real-world datasets.
+
+## Learning Journey
+
+This portfolio brings together a series of applied data analysis projects developed using R and Quarto. Across these assignments, Xinru worked through the full data analysis process—from loading and cleaning data to statistical modeling, visualization, and interpretation.
+
+Her work highlights key skills such as preparing datasets by handling missing values, recoding variables, and transforming data into usable formats. She also gained experience running statistical analyses to explore patterns and answer research questions, as well as creating visualizations that clearly communicate results.
+
+Through the use of reproducible workflows, she learned how to connect code, output, and written interpretation into cohesive analytical reports.
+
+## Reflection & Growth
+
+Over the course of the semester, Xinru became increasingly confident in her coding abilities. While she initially felt uncertain about her skill level, repeated practice and project-based learning helped her build a strong foundation in R.
+
+One of the more challenging aspects of the course was understanding the logic behind functions—particularly when writing her own. This pushed her to think more deeply about how code is structured and how different components interact within an analysis.
+
+## Strengths & Achievements
+
+Xinru is especially proud of the data visualizations she created. Being able to clearly communicate results through visual outputs—and share those insights with others—helped her recognize the practical value of her skills as a data analyst.
+
+Her portfolio demonstrates the ability to move from raw data to meaningful, interpretable results while maintaining clarity and reproducibility throughout the process.
+
+## Key Takeaways
+
+- Developed end-to-end data analysis workflows in R\
+- Built strong skills in data cleaning, transformation, and visualization\
+- Gained experience with statistical modeling and interpretation\
+- Strengthened understanding of reproducible reporting using Quarto\
+- Increased confidence in independently learning new tools and techniques
+
+## Looking Ahead
+
+With a solid foundation in place, Xinru plans to continue expanding her skills by exploring new R packages and applying her knowledge to additional datasets and research questions.
+
+> “Each chapter reflects a step in my learning process, showing how I moved from raw data to meaningful, interpretable results.”
+
+## View Full Portfolio
+
+👉 [**Explore Xinru’s Full Portfolio Book**](https://019c7c8e-197b-0c55-fbf6-d685497e25bb.share.connect.posit.cloud/)

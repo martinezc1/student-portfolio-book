@@ -1,0 +1,75 @@
+# Reproducible Research in Practice {-}
+
+This volume represents a collection of student portfolio books developed as part of a graduate course in Reproducible Research using R.
+
+Throughout the semester, students completed a series of assignments using the programming language R. Rather than treating these as “one-and-done” submissions, each assignment was intentionally integrated into a larger body of work. Individual Quarto documents were progressively developed and combined into full Quarto books, allowing students to document their learning and analytical development over time.
+
+The structure for these portfolio books—along with the assignments that comprise them—is outlined in Chapter 13 of the [Teaching Reproducible Research Using R](https://martinezc1-teaching-reproducible-research-using-r.share.connect.posit.cloud/chapters/assignment-book.html), which focuses on transforming coursework into cohesive, reproducible portfolio artifacts.
+
+## A Shared Framework, Individual Approaches
+
+All students in this course completed the same sequence of assignments, covering key stages of the data analysis process:
+
+- Data import and cleaning  
+- Data transformation and exploration  
+- Statistical analysis (e.g., t-tests, ANOVA, regression)  
+- Data visualization  
+- Reproducible reporting using Quarto  
+
+While the structure was shared, the execution was not. Students were encouraged to approach questions from different angles, create visualizations using their own perspectives, and communicate findings in their own voice.
+
+::: callout-tip
+## As I always say:
+
+“R puts the R in Artist”
+:::
+
+Creativity and individuality were treated as essential components of the analytical process, not secondary to it.
+
+## A Connected Learning Ecosystem
+
+This volume is part of a broader ecosystem of open, reproducible teaching materials developed for this course.
+
+At the core is the textbook, [Reproducible Research Using R](https://martinezc1-reproducible-research-using-r.share.connect.posit.cloud/), which introduces the foundational concepts and technical skills needed to work with data in R.
+
+Complementing this is [Teaching Reproducible Research Using R](https://martinezc1-teaching-reproducible-research-using-r.share.connect.posit.cloud/), which focuses on implementation. This companion resource includes the assignments and workflows that structure the course and guide students through the practical application of those concepts.
+
+Building on this foundation, students also conducted independent research projects, which were compiled into the [NYC Open Data Student Gallery Book](https://martinezc1-nyc-open-data-student-gallery.share.connect.posit.cloud/), presented at NYC Open Data Week 2026.
+
+Together, these components form a complete pipeline:
+
+- Concepts and foundations (textbook)  
+- Applied learning and assignments (teaching companion)  
+- Student portfolios (this volume)  
+- Independent research and publication (student gallery)  
+
+This structure reflects a deliberate approach to teaching reproducible research—one that emphasizes not only learning concepts, but applying them in meaningful, public-facing ways.
+
+## Learning Through Reproducibility
+
+Reproducibility was not treated as an afterthought, but as a core component of the learning process. By integrating code, results, and interpretation into a single workflow, students were able to:
+
+- Better understand their own analyses  
+- Debug and refine their work more effectively  
+- Communicate results with clarity and transparency  
+- Build habits aligned with modern data science and research practices  
+
+This approach reflects a broader shift in how data analysis is taught and practiced—emphasizing not just results, but the process used to generate them.
+
+## Contributors
+
+The following students developed portfolio books as part of the Spring 2026 offering of *Reproducible Research Using R* at Brooklyn College. Each chapter in this volume introduces a student and provides a link to their full Quarto portfolio.
+
+- Crystal Adote — [View Chapter](@sec-crystal)  
+- Jonah Dratfield — [View Chapter](@sec-jonah)
+- Joyce Escatel-Flores — [View Chapter](@sec-joyce)
+- Robert Hutto — [View Chapter](@sec-robert)
+- Isley Jean-Pierre — [View Chapter](@sec-isley)
+- Shannon Joyce — [View Chapter](@sec-shannon)
+- Emma Tupone — [View Chapter](@sec-emma)
+- Xinru Wang — [View Chapter](@sec-xinru)
+- Laura Rose Werner — [View Chapter](@sec-laura)  
+
+## Looking Ahead
+
+This volume represents the first iteration of a broader effort to document and publish student work in reproducible research. Future volumes will continue to build on this model, expanding the collection of publicly available student portfolios and highlighting evolving approaches to teaching and applying data analysis.

@@ -1,0 +1,54 @@
+---
+title: "Shannon Joyce"
+---
+
+## About the Author {#sec-shannon}
+
+Shannon is a graduate student at Brooklyn College who developed a comprehensive skill set in data analysis and reproducible research over the course of the semester. Her work reflects a strong ability to move from raw data to meaningful insights using structured, reproducible workflows in R.
+
+## Learning Journey
+
+This portfolio is a compilation of assignments completed in a graduate course on Reproducible Psychological Research. Across these projects, Shannon demonstrates proficiency in writing and executing R scripts, cleaning and transforming real-world datasets, and conducting statistical analyses.
+
+Her work spans the full data analysis pipeline—from data import and wrangling to modeling, visualization, and communication. She developed experience using tools from the :contentReference[oaicite:0]{index="0"} to efficiently manipulate data, including filtering, grouping, summarizing, and joining datasets in preparation for analysis.
+
+## Reflection & Growth
+
+At the beginning of the course, Shannon had limited experience with R. Early efforts focused on building foundational skills and becoming comfortable working within the RStudio environment. By the end of the semester, she was able to independently complete full analytical workflows—moving from raw data to statistical modeling and clear interpretation.
+
+A key area of growth was working with real datasets, which often required substantial cleaning and restructuring before analysis. Shannon developed skills in inspecting variables, recoding values, handling missing data, and reshaping datasets into formats suitable for analysis. These steps were essential in ensuring the accuracy and validity of her results.
+
+## Analytical Skills & Techniques
+
+Throughout the semester, Shannon gained experience applying a wide range of statistical methods, including:
+
+- t-tests for comparing group means\
+- ANOVAs for analyzing differences across multiple groups\
+- Correlation matrices for exploring relationships between variables\
+- Regression models for prediction and explanation
+
+She also learned to evaluate model outputs holistically, considering multiple variables and metrics rather than relying on a single statistic.
+
+## Communication & Visualization
+
+In addition to statistical analysis, Shannon strengthened her ability to communicate results clearly and effectively. She learned to translate statistical findings into plain language, connecting results back to the original research questions.
+
+Her portfolio includes data visualizations created with :contentReference[oaicite:1]{index="1"}, as well as reproducible reports built using :contentReference[oaicite:2]{index="2"}. These tools allowed her to integrate code, output, and narrative into cohesive, shareable documents.
+
+She also explored interactive data presentation through the development of a Shiny application.
+
+## Key Takeaways
+
+- Built end-to-end data analysis workflows in R\
+- Developed strong data cleaning and transformation skills\
+- Applied a range of statistical and predictive modeling techniques\
+- Strengthened ability to interpret and communicate results\
+- Created reproducible reports and interactive applications
+
+## Looking Ahead
+
+Shannon now feels confident continuing to build on these skills in future academic and professional work. Her portfolio reflects both a strong technical foundation and the ability to apply data analysis to meaningful questions.
+
+## View Full Portfolio
+
+👉 [**Explore Shannon’s Full Portfolio Book**](https://019c7f53-4be2-1e5f-eb67-bc25d711ee72.share.connect.posit.cloud/)

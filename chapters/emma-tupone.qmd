@@ -1,0 +1,56 @@
+---
+title: "Emma Tupone"
+---
+
+## About the Author {#sec-emma}
+
+Emma is a graduate student at Brooklyn College whose work reflects a strong foundation in psychological research and data analysis. Her portfolio demonstrates both technical proficiency and the ability to apply reproducible research practices to a wide range of real-world datasets.
+
+## Learning Journey
+
+This portfolio presents a collection of data analysis projects completed as part of a graduate course in Reproducible Psychological Research. Across chapters, Emma applies reproducible workflows in R to diverse datasets, including public health records, socioeconomic indicators, sports analytics, and behavioral data.
+
+Her work highlights core competencies in data cleaning, visualization, statistical inference, and predictive modeling, all integrated through reproducible reporting tools such as :contentReference[oaicite:0]{index="0"} and Shiny.
+
+## Reflection & Growth
+
+Over the course of the semester, Emma significantly deepened her understanding of both data analysis and research methodology. Through hands-on projects, she built skills in manipulating and cleaning data, visualizing patterns, and applying statistical techniques to answer meaningful research questions.
+
+She developed proficiency using :contentReference[oaicite:1]{index="1"} to create clear and informative visualizations, and gained experience with statistical methods including t-tests, ANOVAs, chi-square tests, and logistic regression. Beyond execution, she strengthened her ability to interpret results thoughtfully and connect findings to real-world implications.
+
+## Challenges & Problem Solving
+
+Emma encountered several challenges throughout the semester, including:
+
+- Debugging complex R code, particularly when working with large datasets or interactive components\
+- Interpreting nuanced statistical outputs such as residuals, effect sizes, and model diagnostics\
+- Synthesizing insights across multiple assignments into cohesive conclusions
+
+Addressing these challenges required persistence, iterative testing, and careful attention to both coding and statistical reasoning.
+
+## Achievements
+
+Emma is especially proud of completing her Bookdown portfolio, which integrates multiple assignments into a cohesive and polished body of work. This project reflects her ability to combine reproducible code, clear visualizations, and well-structured interpretations.
+
+Notable accomplishments include:
+
+- Developing interactive visualizations using Shiny\
+- Conducting advanced analyses such as logistic regression and chi-square contribution analysis\
+- Maintaining clarity and consistency across chapters in both code and communication
+
+## Key Takeaways
+
+- Built strong skills in data cleaning, visualization, and statistical modeling\
+- Developed the ability to interpret and communicate complex results\
+- Gained experience working with diverse, real-world datasets\
+- Strengthened reproducible research practices through integrated workflows
+
+## Looking Ahead
+
+Emma leaves the course with increased confidence in her ability to independently explore and analyze data, select appropriate statistical methods, and communicate findings in a clear and professional manner. She is well-prepared to apply these skills in future research, coursework, and professional settings.
+
+> “This semester reinforced the value of persistence, curiosity, and attention to detail in research.”
+
+## View Full Portfolio
+
+👉 [**Explore Emma’s Full Portfolio Book**](https://019b2f1f-f2b9-d61a-d328-03690c0bd6da.share.connect.posit.cloud/)

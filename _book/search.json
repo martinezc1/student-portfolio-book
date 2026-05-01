@@ -1,0 +1,1262 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Reproducible Research Using R: Student Work in Practice",
+    "section": "",
+    "text": "Reproducible Research in Practice\nThis volume represents a collection of student portfolio books developed as part of a graduate course in Reproducible Research using R.\nThroughout the semester, students completed a series of assignments using the programming language R. Rather than treating these as “one-and-done” submissions, each assignment was intentionally integrated into a larger body of work. Individual Quarto documents were progressively developed and combined into full Quarto books, allowing students to document their learning and analytical development over time.\nThe structure for these portfolio books—along with the assignments that comprise them—is outlined in Chapter 13 of the Teaching Reproducible Research Using R, which focuses on transforming coursework into cohesive, reproducible portfolio artifacts.",
+    "crumbs": [
+      "Reproducible Research in Practice"
+    ]
+  },
+  {
+    "objectID": "index.html#a-shared-framework-individual-approaches",
+    "href": "index.html#a-shared-framework-individual-approaches",
+    "title": "Reproducible Research Using R: Student Work in Practice",
+    "section": "A Shared Framework, Individual Approaches",
+    "text": "A Shared Framework, Individual Approaches\nAll students in this course completed the same sequence of assignments, covering key stages of the data analysis process:\n\nData import and cleaning\n\nData transformation and exploration\n\nStatistical analysis (e.g., t-tests, ANOVA, regression)\n\nData visualization\n\nReproducible reporting using Quarto\n\nWhile the structure was shared, the execution was not. Students were encouraged to approach questions from different angles, create visualizations using their own perspectives, and communicate findings in their own voice.\n\n\n\n\n\n\nTipAs I always say:\n\n\n\n“R puts the R in Artist”\n\n\nCreativity and individuality were treated as essential components of the analytical process, not secondary to it.",
+    "crumbs": [
+      "Reproducible Research in Practice"
+    ]
+  },
+  {
+    "objectID": "index.html#from-assignment-to-artifact",
+    "href": "index.html#from-assignment-to-artifact",
+    "title": "Reproducible Research Using R: Student Work in Practice",
+    "section": "From Assignment to Artifact",
+    "text": "From Assignment to Artifact\nA central goal of this course was to move beyond “one-and-done” assignments. Instead of producing work that is completed and discarded, students developed portfolios that serve as lasting artifacts of their learning.\nEach portfolio included:\n\nFully reproducible analyses\n\nClearly documented code and outputs\n\nInterpretable statistical results\n\nVisualizations designed to communicate findings\n\nA structured, publishable format\n\nThese portfolios are intended to be shared—with peers, instructors, and potential employers—as evidence of both technical skill and analytical thinking.",
+    "crumbs": [
+      "Reproducible Research in Practice"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-through-reproducibility",
+    "href": "index.html#learning-through-reproducibility",
+    "title": "Reproducible Research Using R: Student Work in Practice",
+    "section": "Learning Through Reproducibility",
+    "text": "Learning Through Reproducibility\nReproducibility was not treated as an afterthought, but as a core component of the learning process. By integrating code, results, and interpretation into a single workflow, students were able to:\n\nBetter understand their own analyses\n\nDebug and refine their work more effectively\n\nCommunicate results with clarity and transparency\n\nBuild habits aligned with modern data science and research practices\n\nThis approach reflects a broader shift in how data analysis is taught and practiced—emphasizing not just results, but the process used to generate them.",
+    "crumbs": [
+      "Reproducible Research in Practice"
+    ]
+  },
+  {
+    "objectID": "index.html#what-this-volume-represents",
+    "href": "index.html#what-this-volume-represents",
+    "title": "Reproducible Research Using R: Student Work in Practice",
+    "section": "What This Volume Represents",
+    "text": "What This Volume Represents\nThis collection captures more than technical outcomes—it documents a range of learning experiences:\n\nStudents overcoming initial uncertainty with programming\n\nThe transition from copying code to understanding it\n\nThe development of independent problem-solving skills\n\nThe ability to translate data into meaningful insights\n\nEach chapter introduces a student and provides an overview of their portfolio, along with a link to their full Quarto book. Readers are encouraged to explore these portfolios directly to see the complete analytical workflows in action.",
+    "crumbs": [
+      "Reproducible Research in Practice"
+    ]
+  },
+  {
+    "objectID": "index.html#looking-ahead",
+    "href": "index.html#looking-ahead",
+    "title": "Reproducible Research Using R: Student Work in Practice",
+    "section": "Looking Ahead",
+    "text": "Looking Ahead\nThis volume represents the first iteration of a broader effort to document and publish student work in reproducible research. Future volumes will continue to build on this model, expanding the collection of publicly available student portfolios and highlighting evolving approaches to teaching and applying data analysis.",
+    "crumbs": [
+      "Reproducible Research in Practice"
+    ]
+  },
+  {
+    "objectID": "crystal-adote.html",
+    "href": "crystal-adote.html",
+    "title": "2  Crystal Adote",
+    "section": "",
+    "text": "2.1 About the Author\nCrystal Adote is a graduate student at Brooklyn College who developed a strong foundation in data analysis and reproducible research over the course of the semester. Entering the class with little prior experience in R, she built both technical skills and confidence through hands-on work with real datasets.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Crystal Adote</span>"
+    ]
+  },
+  {
+    "objectID": "crystal-adote.html#learning-journey",
+    "href": "crystal-adote.html#learning-journey",
+    "title": "2  Crystal Adote",
+    "section": "2.2 Learning Journey",
+    "text": "2.2 Learning Journey\nThroughout the semester, Crystal gained experience working across the full data analysis pipeline. She learned how to import and clean datasets, perform statistical analyses, and communicate findings using reproducible workflows.\nHer work includes applying a range of statistical techniques such as t-tests, chi-square tests, ANOVAs, linear regression, logistic regression, and correlation analysis. She also explored multiple R packages and developed an interactive Shiny application.\nOne area she initially found challenging was writing functions in R. However, with practice and persistence, she was able to build a stronger understanding of how functions work and how they can be used effectively in analysis.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Crystal Adote</span>"
+    ]
+  },
+  {
+    "objectID": "crystal-adote.html#reflection-growth",
+    "href": "crystal-adote.html#reflection-growth",
+    "title": "2  Crystal Adote",
+    "section": "2.3 Reflection & Growth",
+    "text": "2.3 Reflection & Growth\nCrystal’s biggest takeaway from the course was the progress she made over time. Starting with little background in R, she is now able to write scripts that import, clean, and analyze real-world datasets.\nHer confidence grew significantly throughout the semester, and she developed a strong set of practical skills that she can carry forward into future academic and professional work.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Crystal Adote</span>"
+    ]
+  },
+  {
+    "objectID": "crystal-adote.html#skills-demonstrated",
+    "href": "crystal-adote.html#skills-demonstrated",
+    "title": "2  Crystal Adote",
+    "section": "2.4 Skills Demonstrated",
+    "text": "2.4 Skills Demonstrated\n\nData import and cleaning in R\n\nStatistical analysis (t-tests, chi-square, ANOVA, regression)\n\nData exploration and interpretation\n\nReproducible research using Quarto\n\nIntroductory Shiny app development",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Crystal Adote</span>"
+    ]
+  },
+  {
+    "objectID": "crystal-adote.html#view-full-portfolio",
+    "href": "crystal-adote.html#view-full-portfolio",
+    "title": "2  Crystal Adote",
+    "section": "2.5 View Full Portfolio",
+    "text": "2.5 View Full Portfolio\n👉 Explore Crystal’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Crystal Adote</span>"
+    ]
+  },
+  {
+    "objectID": "jonah-dratfield.html",
+    "href": "jonah-dratfield.html",
+    "title": "3  Jonah Dratfield",
+    "section": "",
+    "text": "3.1 About the Author\nJonah Dratfield is a graduate student at Brooklyn College who developed a strong foundation in statistical programming and data analysis through hands-on work in R. His portfolio reflects both his technical growth and his ability to connect data analysis to meaningful research questions.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "jonah-dratfield.html#learning-journey",
+    "href": "jonah-dratfield.html#learning-journey",
+    "title": "3  Jonah Dratfield",
+    "section": "3.2 Learning Journey",
+    "text": "3.2 Learning Journey\nThis portfolio showcases a series of assignments completed as part of a graduate course in reproducible research. Through this work, Jonah built experience using R to analyze a variety of datasets and to create clear, informative visualizations.\nBeyond technical execution, his work highlights an evolving ability to approach data analytically—using statistical methods not just to produce results, but to better understand and interpret underlying patterns.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "jonah-dratfield.html#reflection-growth",
+    "href": "jonah-dratfield.html#reflection-growth",
+    "title": "3  Jonah Dratfield",
+    "section": "3.3 Reflection & Growth",
+    "text": "3.3 Reflection & Growth\nAt the start of the semester, Jonah had little experience working with R. Over time, he developed confidence not only in performing statistical analyses, but also in independently learning new techniques and troubleshooting challenges.\nOne of the biggest hurdles early on was navigating a new programming language and making sense of its structure. However, as the course progressed—particularly when working with R Markdown—he began to see how each part of the workflow connected to broader analytical questions. This shift allowed the process to “click,” transforming individual tasks into a cohesive analytical approach.\nJonah identifies as an idea-driven thinker, and this perspective became a strength in his work. By focusing on how each analysis addressed a specific question, he was able to deepen both his understanding and the quality of his interpretations.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "jonah-dratfield.html#key-takeaways",
+    "href": "jonah-dratfield.html#key-takeaways",
+    "title": "3  Jonah Dratfield",
+    "section": "3.4 Key Takeaways",
+    "text": "3.4 Key Takeaways\n\nDeveloped a strong foundational understanding of R\n\nBuilt confidence in self-directed learning and problem-solving\n\nApplied statistical analyses to generate meaningful insights from data\n\nStrengthened ability to interpret and communicate nuanced findings",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "jonah-dratfield.html#looking-ahead",
+    "href": "jonah-dratfield.html#looking-ahead",
+    "title": "3  Jonah Dratfield",
+    "section": "3.5 Looking Ahead",
+    "text": "3.5 Looking Ahead\nJonah plans to continue using R in his thesis and future research projects. While his adviser primarily uses Excel and SPSS, he sees R as an opportunity to streamline analyses and expand the depth of his work.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "jonah-dratfield.html#view-full-portfolio",
+    "href": "jonah-dratfield.html#view-full-portfolio",
+    "title": "3  Jonah Dratfield",
+    "section": "3.6 View Full Portfolio",
+    "text": "3.6 View Full Portfolio\n👉 Explore Jonah’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "joyce-escatel-flores.html",
+    "href": "joyce-escatel-flores.html",
+    "title": "4  Joyce Escatel-Flores",
+    "section": "",
+    "text": "4.1 About the Author\nJoyce is a graduate student at Brooklyn College who, over the course of the semester, transformed her perspective on coding and data analysis. Her work reflects both technical development and a significant increase in confidence as she learned to approach programming with curiosity rather than hesitation.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "joyce-escatel-flores.html#learning-journey",
+    "href": "joyce-escatel-flores.html#learning-journey",
+    "title": "4  Joyce Escatel-Flores",
+    "section": "4.2 Learning Journey",
+    "text": "4.2 Learning Journey\nAt the beginning of the course, Joyce was apprehensive about learning R due to a prior experience that made the language feel overwhelming and difficult to follow. This initial hesitation shaped her expectations, but as the semester progressed, she steadily built both her skills and her confidence.\nThrough hands-on assignments, Joyce learned how to analyze data in R, create clear and visually engaging graphs and tables, and develop reproducible workflows using Markdown. Beyond technical skills, the course helped reinforce her understanding of statistical concepts by making them more concrete and applicable.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "joyce-escatel-flores.html#reflection-growth",
+    "href": "joyce-escatel-flores.html#reflection-growth",
+    "title": "4  Joyce Escatel-Flores",
+    "section": "4.3 Reflection & Growth",
+    "text": "4.3 Reflection & Growth\nOne of the most meaningful changes for Joyce was the shift in how she viewed herself as a learner. What began as uncertainty evolved into confidence—she now feels capable of starting coding projects from scratch and continuing to develop her skills independently.\nThe coursework itself was challenging, often requiring significant time and effort to complete. As a self-described perfectionist, Joyce dedicated hours—sometimes days—to refining her assignments. However, this persistence paid off, helping her retain what she learned and deepen her understanding.\nShe is especially proud of her ability to create and publish Markdown documents, which serve as a tangible representation of her progress. Revisiting these projects allows her to see how far she has come over the course of the semester.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "joyce-escatel-flores.html#key-takeaways",
+    "href": "joyce-escatel-flores.html#key-takeaways",
+    "title": "4  Joyce Escatel-Flores",
+    "section": "4.4 Key Takeaways",
+    "text": "4.4 Key Takeaways\n\nOvercame initial fear of coding and built lasting confidence\n\nDeveloped skills in data analysis, visualization, and reproducible workflows\n\nStrengthened understanding of statistical concepts through applied work\n\nGained experience creating and publishing Markdown-based projects",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "joyce-escatel-flores.html#looking-ahead",
+    "href": "joyce-escatel-flores.html#looking-ahead",
+    "title": "4  Joyce Escatel-Flores",
+    "section": "4.5 Looking Ahead",
+    "text": "4.5 Looking Ahead\nJoyce plans to continue practicing R beyond the course and hopes to further refine her work in future projects, including potential contributions to Open Data Week. She is motivated to keep building on the strong foundation she developed this semester.\n\n“I feel more confident and not scared to start coding something from scratch on my own.”",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "joyce-escatel-flores.html#view-full-portfolio",
+    "href": "joyce-escatel-flores.html#view-full-portfolio",
+    "title": "4  Joyce Escatel-Flores",
+    "section": "4.6 View Full Portfolio",
+    "text": "4.6 View Full Portfolio\n👉 Explore Joyce’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "robert-hutto.html",
+    "href": "robert-hutto.html",
+    "title": "5  Robert Hutto",
+    "section": "",
+    "text": "5.1 About the Author\nRob is a graduate student at Brooklyn College who developed a structured and thoughtful approach to data analysis over the course of the semester. His work reflects a transition from fragmented coding practices to a more intentional, reproducible workflow in R.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "robert-hutto.html#learning-journey",
+    "href": "robert-hutto.html#learning-journey",
+    "title": "5  Robert Hutto",
+    "section": "5.2 Learning Journey",
+    "text": "5.2 Learning Journey\nAt the start of the course, Rob had some prior exposure to RStudio through independent research, but his approach lacked organization and clarity. Much of his work involved copying and pasting code—often with limited understanding of how individual components functioned—resulting in scripts that were difficult to interpret or maintain.\nThrough consistent practice and guided assignments, he developed a more systematic approach to working with data. His portfolio demonstrates the ability to import, clean, and prepare datasets from multiple sources, conduct statistical analyses such as t-tests, ANOVAs, and regression models, and create clear visualizations using tables and graphs.\nJust as importantly, he learned to structure his work in a way that is readable and interpretable by others, allowing both himself and collaborators to better understand analytical workflows.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "robert-hutto.html#reflection-growth",
+    "href": "robert-hutto.html#reflection-growth",
+    "title": "5  Robert Hutto",
+    "section": "5.3 Reflection & Growth",
+    "text": "5.3 Reflection & Growth\nOne of Rob’s most significant areas of growth was moving from simply executing code to truly understanding it. This shift enabled him to build more organized, transparent, and reproducible analyses.\nHe also developed a strong ability to identify and communicate meaningful patterns within data—transforming raw datasets into clear, interpretable stories. This skill represents a key step beyond technical execution and into applied data analysis.\nA recurring challenge throughout the course was managing expectations around assignments. Tasks that initially appeared straightforward often required significant time to debug and refine, reinforcing the importance of patience and persistence in programming.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "robert-hutto.html#advice-for-future-students",
+    "href": "robert-hutto.html#advice-for-future-students",
+    "title": "5  Robert Hutto",
+    "section": "5.4 Advice for Future Students",
+    "text": "5.4 Advice for Future Students\n\nDon’t underestimate seemingly simple tasks. Budget extra time for troubleshooting. What looks like a 30-minute assignment can easily become a multiple-hour debugging session—even with the help of AI. That’s part of the learning process.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "robert-hutto.html#key-takeaways",
+    "href": "robert-hutto.html#key-takeaways",
+    "title": "5  Robert Hutto",
+    "section": "5.5 Key Takeaways",
+    "text": "5.5 Key Takeaways\n\nTransitioned from unstructured coding to organized, reproducible workflows\n\nDeveloped proficiency in data cleaning, analysis, and visualization\n\nImproved ability to read, understand, and communicate code\n\nStrengthened skills in extracting and explaining insights from data",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "robert-hutto.html#view-full-portfolio",
+    "href": "robert-hutto.html#view-full-portfolio",
+    "title": "5  Robert Hutto",
+    "section": "5.6 View Full Portfolio",
+    "text": "5.6 View Full Portfolio\n👉 Explore Rob’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "isley-jean-pierre.html",
+    "href": "isley-jean-pierre.html",
+    "title": "6  Isley Jean-Pierre",
+    "section": "",
+    "text": "6.1 About the Author\nIsley is a graduate student at Brooklyn College whose work reflects a strong engagement with data analysis and reproducible research. Her portfolio represents the culmination of a semester of hands-on learning in R, showcasing both technical development and enthusiasm for applying these skills in future projects.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "isley-jean-pierre.html#learning-journey",
+    "href": "isley-jean-pierre.html#learning-journey",
+    "title": "6  Isley Jean-Pierre",
+    "section": "6.2 Learning Journey",
+    "text": "6.2 Learning Journey\nThis portfolio brings together a series of assignments completed as part of a course in Reproducible Psychology Research. Each section highlights a different stage of the data analysis process, from foundational R scripting to more advanced statistical techniques and reproducible workflows.\nOver the course of the semester, Isley developed experience working with a range of analytical methods, including correlation analysis and ANOVA, while also building skills in creating and submitting work using R Markdown and Shiny. Her portfolio reflects not just individual assignments, but a continuous progression of learning and application.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "isley-jean-pierre.html#reflection-growth",
+    "href": "isley-jean-pierre.html#reflection-growth",
+    "title": "6  Isley Jean-Pierre",
+    "section": "6.3 Reflection & Growth",
+    "text": "6.3 Reflection & Growth\nThis project represents the culmination of Isley’s work throughout the semester and stands out as one of the most meaningful and engaging assignments in the course. It captures both the breadth of skills she developed and her ability to bring them together into a cohesive, reproducible body of work.\nEach section of the portfolio tells the story of her growth—demonstrating how initial exposure to R evolved into the ability to perform analyses, build reproducible documents, and create interactive outputs.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "isley-jean-pierre.html#key-takeaways",
+    "href": "isley-jean-pierre.html#key-takeaways",
+    "title": "6  Isley Jean-Pierre",
+    "section": "6.4 Key Takeaways",
+    "text": "6.4 Key Takeaways\n\nBuilt a strong foundation in R programming and data analysis\n\nApplied statistical methods such as correlation and ANOVA\n\nDeveloped reproducible workflows using R Markdown\n\nGained experience creating interactive outputs with Shiny\n\nSynthesized semester-long work into a cohesive portfolio",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "isley-jean-pierre.html#looking-ahead",
+    "href": "isley-jean-pierre.html#looking-ahead",
+    "title": "6  Isley Jean-Pierre",
+    "section": "6.5 Looking Ahead",
+    "text": "6.5 Looking Ahead\nIsley is excited to apply the skills she developed in this course to future projects. Her portfolio reflects both her current abilities and her readiness to continue building on this foundation.\n\n“Each section tells the journey of what I have learned and what I hope to apply in my future projects.”",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "isley-jean-pierre.html#view-full-portfolio",
+    "href": "isley-jean-pierre.html#view-full-portfolio",
+    "title": "6  Isley Jean-Pierre",
+    "section": "6.6 View Full Portfolio",
+    "text": "6.6 View Full Portfolio\n👉 Explore Isley’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "shannon-joyce.html",
+    "href": "shannon-joyce.html",
+    "title": "7  Shannon Joyce",
+    "section": "",
+    "text": "7.1 About the Author\nShannon is a graduate student at Brooklyn College who developed a comprehensive skill set in data analysis and reproducible research over the course of the semester. Her work reflects a strong ability to move from raw data to meaningful insights using structured, reproducible workflows in R.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "shannon-joyce.html#learning-journey",
+    "href": "shannon-joyce.html#learning-journey",
+    "title": "7  Shannon Joyce",
+    "section": "7.2 Learning Journey",
+    "text": "7.2 Learning Journey\nThis portfolio is a compilation of assignments completed in a graduate course on Reproducible Psychological Research. Across these projects, Shannon demonstrates proficiency in writing and executing R scripts, cleaning and transforming real-world datasets, and conducting statistical analyses.\nHer work spans the full data analysis pipeline—from data import and wrangling to modeling, visualization, and communication. She developed experience using tools from the :contentReferenceoaicite:0 to efficiently manipulate data, including filtering, grouping, summarizing, and joining datasets in preparation for analysis.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "shannon-joyce.html#reflection-growth",
+    "href": "shannon-joyce.html#reflection-growth",
+    "title": "7  Shannon Joyce",
+    "section": "7.3 Reflection & Growth",
+    "text": "7.3 Reflection & Growth\nAt the beginning of the course, Shannon had limited experience with R. Early efforts focused on building foundational skills and becoming comfortable working within the RStudio environment. By the end of the semester, she was able to independently complete full analytical workflows—moving from raw data to statistical modeling and clear interpretation.\nA key area of growth was working with real datasets, which often required substantial cleaning and restructuring before analysis. Shannon developed skills in inspecting variables, recoding values, handling missing data, and reshaping datasets into formats suitable for analysis. These steps were essential in ensuring the accuracy and validity of her results.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "shannon-joyce.html#analytical-skills-techniques",
+    "href": "shannon-joyce.html#analytical-skills-techniques",
+    "title": "7  Shannon Joyce",
+    "section": "7.4 Analytical Skills & Techniques",
+    "text": "7.4 Analytical Skills & Techniques\nThroughout the semester, Shannon gained experience applying a wide range of statistical methods, including:\n\nt-tests for comparing group means\n\nANOVAs for analyzing differences across multiple groups\n\nCorrelation matrices for exploring relationships between variables\n\nRegression models for prediction and explanation\n\nShe also learned to evaluate model outputs holistically, considering multiple variables and metrics rather than relying on a single statistic.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "shannon-joyce.html#communication-visualization",
+    "href": "shannon-joyce.html#communication-visualization",
+    "title": "7  Shannon Joyce",
+    "section": "7.5 Communication & Visualization",
+    "text": "7.5 Communication & Visualization\nIn addition to statistical analysis, Shannon strengthened her ability to communicate results clearly and effectively. She learned to translate statistical findings into plain language, connecting results back to the original research questions.\nHer portfolio includes data visualizations created with :contentReferenceoaicite:1, as well as reproducible reports built using :contentReferenceoaicite:2. These tools allowed her to integrate code, output, and narrative into cohesive, shareable documents.\nShe also explored interactive data presentation through the development of a Shiny application.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "shannon-joyce.html#key-takeaways",
+    "href": "shannon-joyce.html#key-takeaways",
+    "title": "7  Shannon Joyce",
+    "section": "7.6 Key Takeaways",
+    "text": "7.6 Key Takeaways\n\nBuilt end-to-end data analysis workflows in R\n\nDeveloped strong data cleaning and transformation skills\n\nApplied a range of statistical and predictive modeling techniques\n\nStrengthened ability to interpret and communicate results\n\nCreated reproducible reports and interactive applications",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "shannon-joyce.html#looking-ahead",
+    "href": "shannon-joyce.html#looking-ahead",
+    "title": "7  Shannon Joyce",
+    "section": "7.7 Looking Ahead",
+    "text": "7.7 Looking Ahead\nShannon now feels confident continuing to build on these skills in future academic and professional work. Her portfolio reflects both a strong technical foundation and the ability to apply data analysis to meaningful questions.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "shannon-joyce.html#view-full-portfolio",
+    "href": "shannon-joyce.html#view-full-portfolio",
+    "title": "7  Shannon Joyce",
+    "section": "7.8 View Full Portfolio",
+    "text": "7.8 View Full Portfolio\n👉 Explore Shannon’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "emma-tupone.html",
+    "href": "emma-tupone.html",
+    "title": "8  Emma Tupone",
+    "section": "",
+    "text": "8.1 About the Author\nEmma is a graduate student at Brooklyn College whose work reflects a strong foundation in psychological research and data analysis. Her portfolio demonstrates both technical proficiency and the ability to apply reproducible research practices to a wide range of real-world datasets.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "emma-tupone.html#learning-journey",
+    "href": "emma-tupone.html#learning-journey",
+    "title": "8  Emma Tupone",
+    "section": "8.2 Learning Journey",
+    "text": "8.2 Learning Journey\nThis portfolio presents a collection of data analysis projects completed as part of a graduate course in Reproducible Psychological Research. Across chapters, Emma applies reproducible workflows in R to diverse datasets, including public health records, socioeconomic indicators, sports analytics, and behavioral data.\nHer work highlights core competencies in data cleaning, visualization, statistical inference, and predictive modeling, all integrated through reproducible reporting tools such as :contentReferenceoaicite:0 and Shiny.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "emma-tupone.html#reflection-growth",
+    "href": "emma-tupone.html#reflection-growth",
+    "title": "8  Emma Tupone",
+    "section": "8.3 Reflection & Growth",
+    "text": "8.3 Reflection & Growth\nOver the course of the semester, Emma significantly deepened her understanding of both data analysis and research methodology. Through hands-on projects, she built skills in manipulating and cleaning data, visualizing patterns, and applying statistical techniques to answer meaningful research questions.\nShe developed proficiency using :contentReferenceoaicite:1 to create clear and informative visualizations, and gained experience with statistical methods including t-tests, ANOVAs, chi-square tests, and logistic regression. Beyond execution, she strengthened her ability to interpret results thoughtfully and connect findings to real-world implications.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "emma-tupone.html#challenges-problem-solving",
+    "href": "emma-tupone.html#challenges-problem-solving",
+    "title": "8  Emma Tupone",
+    "section": "8.4 Challenges & Problem Solving",
+    "text": "8.4 Challenges & Problem Solving\nEmma encountered several challenges throughout the semester, including:\n\nDebugging complex R code, particularly when working with large datasets or interactive components\n\nInterpreting nuanced statistical outputs such as residuals, effect sizes, and model diagnostics\n\nSynthesizing insights across multiple assignments into cohesive conclusions\n\nAddressing these challenges required persistence, iterative testing, and careful attention to both coding and statistical reasoning.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "emma-tupone.html#achievements",
+    "href": "emma-tupone.html#achievements",
+    "title": "8  Emma Tupone",
+    "section": "8.5 Achievements",
+    "text": "8.5 Achievements\nEmma is especially proud of completing her Bookdown portfolio, which integrates multiple assignments into a cohesive and polished body of work. This project reflects her ability to combine reproducible code, clear visualizations, and well-structured interpretations.\nNotable accomplishments include:\n\nDeveloping interactive visualizations using Shiny\n\nConducting advanced analyses such as logistic regression and chi-square contribution analysis\n\nMaintaining clarity and consistency across chapters in both code and communication",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "emma-tupone.html#key-takeaways",
+    "href": "emma-tupone.html#key-takeaways",
+    "title": "8  Emma Tupone",
+    "section": "8.6 Key Takeaways",
+    "text": "8.6 Key Takeaways\n\nBuilt strong skills in data cleaning, visualization, and statistical modeling\n\nDeveloped the ability to interpret and communicate complex results\n\nGained experience working with diverse, real-world datasets\n\nStrengthened reproducible research practices through integrated workflows",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "emma-tupone.html#looking-ahead",
+    "href": "emma-tupone.html#looking-ahead",
+    "title": "8  Emma Tupone",
+    "section": "8.7 Looking Ahead",
+    "text": "8.7 Looking Ahead\nEmma leaves the course with increased confidence in her ability to independently explore and analyze data, select appropriate statistical methods, and communicate findings in a clear and professional manner. She is well-prepared to apply these skills in future research, coursework, and professional settings.\n\n“This semester reinforced the value of persistence, curiosity, and attention to detail in research.”",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "emma-tupone.html#view-full-portfolio",
+    "href": "emma-tupone.html#view-full-portfolio",
+    "title": "8  Emma Tupone",
+    "section": "8.8 View Full Portfolio",
+    "text": "8.8 View Full Portfolio\n👉 Explore Emma’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "xinru-wang.html",
+    "href": "xinru-wang.html",
+    "title": "9  Xinru Wang",
+    "section": "",
+    "text": "9.1 About the Author\nXinru is a graduate student at Brooklyn College who developed a strong foundation in data analysis and reproducible research over the course of the semester. Her work reflects both technical growth and an increasing confidence in applying R to real-world datasets.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "xinru-wang.html#learning-journey",
+    "href": "xinru-wang.html#learning-journey",
+    "title": "9  Xinru Wang",
+    "section": "9.2 Learning Journey",
+    "text": "9.2 Learning Journey\nThis portfolio brings together a series of applied data analysis projects developed using R and Quarto. Across these assignments, Xinru worked through the full data analysis process—from loading and cleaning data to statistical modeling, visualization, and interpretation.\nHer work highlights key skills such as preparing datasets by handling missing values, recoding variables, and transforming data into usable formats. She also gained experience running statistical analyses to explore patterns and answer research questions, as well as creating visualizations that clearly communicate results.\nThrough the use of reproducible workflows, she learned how to connect code, output, and written interpretation into cohesive analytical reports.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "xinru-wang.html#reflection-growth",
+    "href": "xinru-wang.html#reflection-growth",
+    "title": "9  Xinru Wang",
+    "section": "9.3 Reflection & Growth",
+    "text": "9.3 Reflection & Growth\nOver the course of the semester, Xinru became increasingly confident in her coding abilities. While she initially felt uncertain about her skill level, repeated practice and project-based learning helped her build a strong foundation in R.\nOne of the more challenging aspects of the course was understanding the logic behind functions—particularly when writing her own. This pushed her to think more deeply about how code is structured and how different components interact within an analysis.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "xinru-wang.html#strengths-achievements",
+    "href": "xinru-wang.html#strengths-achievements",
+    "title": "9  Xinru Wang",
+    "section": "9.4 Strengths & Achievements",
+    "text": "9.4 Strengths & Achievements\nXinru is especially proud of the data visualizations she created. Being able to clearly communicate results through visual outputs—and share those insights with others—helped her recognize the practical value of her skills as a data analyst.\nHer portfolio demonstrates the ability to move from raw data to meaningful, interpretable results while maintaining clarity and reproducibility throughout the process.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "xinru-wang.html#key-takeaways",
+    "href": "xinru-wang.html#key-takeaways",
+    "title": "9  Xinru Wang",
+    "section": "9.5 Key Takeaways",
+    "text": "9.5 Key Takeaways\n\nDeveloped end-to-end data analysis workflows in R\n\nBuilt strong skills in data cleaning, transformation, and visualization\n\nGained experience with statistical modeling and interpretation\n\nStrengthened understanding of reproducible reporting using Quarto\n\nIncreased confidence in independently learning new tools and techniques",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "xinru-wang.html#looking-ahead",
+    "href": "xinru-wang.html#looking-ahead",
+    "title": "9  Xinru Wang",
+    "section": "9.6 Looking Ahead",
+    "text": "9.6 Looking Ahead\nWith a solid foundation in place, Xinru plans to continue expanding her skills by exploring new R packages and applying her knowledge to additional datasets and research questions.\n\n“Each chapter reflects a step in my learning process, showing how I moved from raw data to meaningful, interpretable results.”",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "xinru-wang.html#view-full-portfolio",
+    "href": "xinru-wang.html#view-full-portfolio",
+    "title": "9  Xinru Wang",
+    "section": "9.7 View Full Portfolio",
+    "text": "9.7 View Full Portfolio\n👉 Explore Xinru’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "laura-rose-werner.html",
+    "href": "laura-rose-werner.html",
+    "title": "10  Laura Rose Werner",
+    "section": "",
+    "text": "10.1 About the Author\nLaura is a graduate student at Brooklyn College whose work reflects a strong emphasis on reproducible research, statistical reasoning, and professional data communication. Her portfolio is designed not just as a collection of assignments, but as a polished analytical artifact suitable for academic and professional audiences.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "laura-rose-werner.html#learning-journey",
+    "href": "laura-rose-werner.html#learning-journey",
+    "title": "10  Laura Rose Werner",
+    "section": "10.2 Learning Journey",
+    "text": "10.2 Learning Journey\nThis portfolio presents a series of applied data analyses developed using Quarto. Across chapters, Laura works with diverse real-world datasets, including crime data, civic complaints, demographic indicators, sports analytics, and behavioral data.\nEach project follows a consistent analytical workflow: - Data cleaning and preparation\n- Visualization and exploration\n- Statistical testing or modeling\n- Clear interpretation of results\nHer work demonstrates the ability to move systematically from raw data to meaningful, well-communicated insights.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "laura-rose-werner.html#reflection-growth",
+    "href": "laura-rose-werner.html#reflection-growth",
+    "title": "10  Laura Rose Werner",
+    "section": "10.3 Reflection & Growth",
+    "text": "10.3 Reflection & Growth\nA defining feature of Laura’s work is her transition from assignment-based analysis to intentional, structured communication. This portfolio represents an evolution from an earlier Bookdown project into a refined Quarto-based publication.\nRather than simply completing analyses, she focused on improving: - clarity of interpretation\n- organization of code and outputs\n- reproducibility of results\n- overall presentation and readability\nThis shift reflects a deeper understanding of what it means to produce high-quality analytical work.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "laura-rose-werner.html#strengths-achievements",
+    "href": "laura-rose-werner.html#strengths-achievements",
+    "title": "10  Laura Rose Werner",
+    "section": "10.4 Strengths & Achievements",
+    "text": "10.4 Strengths & Achievements\nLaura’s portfolio stands out for its breadth of applied analyses and its consistency in execution. Projects include:\n\nNYC crime and shooting analyses\n\nNYC 311 complaint data with interactive Shiny components\n\nIncome prediction using regression models\n\nStreaming behavior using chi-square analysis\n\nSports analytics using NBA data\n\nAcross all projects, she demonstrates the ability to produce publication-quality tables and visualizations while maintaining fully reproducible workflows.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "laura-rose-werner.html#key-takeaways",
+    "href": "laura-rose-werner.html#key-takeaways",
+    "title": "10  Laura Rose Werner",
+    "section": "10.5 Key Takeaways",
+    "text": "10.5 Key Takeaways\n\nDeveloped strong reproducible workflows using Quarto\n\nStrengthened statistical reasoning and interpretation\n\nBuilt experience across multiple domains and datasets\n\nImproved clarity and professionalism in analytical communication\n\nCreated a portfolio suitable for academic and professional review",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "laura-rose-werner.html#what-this-portfolio-demonstrates",
+    "href": "laura-rose-werner.html#what-this-portfolio-demonstrates",
+    "title": "10  Laura Rose Werner",
+    "section": "10.6 What This Portfolio Demonstrates",
+    "text": "10.6 What This Portfolio Demonstrates\nLaura’s work highlights the ability to go beyond running statistical tests and instead focus on communicating meaningful, well-supported insights. Her portfolio emphasizes transparency, structure, and reproducibility—key components of modern data analysis and research.\n\n“This portfolio demonstrates my ability to move beyond running statistical tests and toward communicating meaningful insights in a structured, reproducible way.”",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "laura-rose-werner.html#view-full-portfolio",
+    "href": "laura-rose-werner.html#view-full-portfolio",
+    "title": "10  Laura Rose Werner",
+    "section": "10.7 View Full Portfolio",
+    "text": "10.7 View Full Portfolio\n👉 Explore Laura’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#a-connected-learning-ecosystem",
+    "href": "index.html#a-connected-learning-ecosystem",
+    "title": "Reproducible Research Using R: Student Work in Practice",
+    "section": "A Connected Learning Ecosystem",
+    "text": "A Connected Learning Ecosystem\nThis volume is part of a broader ecosystem of open, reproducible teaching materials developed for this course.\nAt the core is the textbook, Reproducible Research Using R, which introduces the foundational concepts and technical skills needed to work with data in R.\nComplementing this is Teaching Reproducible Research Using R, which focuses on implementation. This companion resource includes the assignments and workflows that structure the course and guide students through the practical application of those concepts.\nBuilding on this foundation, students also conducted independent research projects, which were compiled into the NYC Open Data Student Gallery Book, presented at NYC Open Data Week 2026.\nTogether, these components form a complete pipeline:\n\nConcepts and foundations (textbook)\n\nApplied learning and assignments (teaching companion)\n\nStudent portfolios (this volume)\n\nIndependent research and publication (student gallery)\n\nThis structure reflects a deliberate approach to teaching reproducible research—one that emphasizes not only learning concepts, but applying them in meaningful, public-facing ways.",
+    "crumbs": [
+      "Reproducible Research in Practice"
+    ]
+  },
+  {
+    "objectID": "chapters/crystal-adote.html",
+    "href": "chapters/crystal-adote.html",
+    "title": "1  Crystal Adote",
+    "section": "",
+    "text": "1.1 About the Author\nCrystal Adote is a graduate student at Brooklyn College who developed a strong foundation in data analysis and reproducible research over the course of the semester. Entering the class with little prior experience in R, she built both technical skills and confidence through hands-on work with real datasets.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Crystal Adote</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/crystal-adote.html#learning-journey",
+    "href": "chapters/crystal-adote.html#learning-journey",
+    "title": "1  Crystal Adote",
+    "section": "1.2 Learning Journey",
+    "text": "1.2 Learning Journey\nThroughout the semester, Crystal gained experience working across the full data analysis pipeline. She learned how to import and clean datasets, perform statistical analyses, and communicate findings using reproducible workflows.\nHer work includes applying a range of statistical techniques such as t-tests, chi-square tests, ANOVAs, linear regression, logistic regression, and correlation analysis. She also explored multiple R packages and developed an interactive Shiny application.\nOne area she initially found challenging was writing functions in R. However, with practice and persistence, she was able to build a stronger understanding of how functions work and how they can be used effectively in analysis.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Crystal Adote</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/crystal-adote.html#reflection-growth",
+    "href": "chapters/crystal-adote.html#reflection-growth",
+    "title": "1  Crystal Adote",
+    "section": "1.3 Reflection & Growth",
+    "text": "1.3 Reflection & Growth\nCrystal’s biggest takeaway from the course was the progress she made over time. Starting with little background in R, she is now able to write scripts that import, clean, and analyze real-world datasets.\nHer confidence grew significantly throughout the semester, and she developed a strong set of practical skills that she can carry forward into future academic and professional work.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Crystal Adote</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/crystal-adote.html#skills-demonstrated",
+    "href": "chapters/crystal-adote.html#skills-demonstrated",
+    "title": "1  Crystal Adote",
+    "section": "1.4 Skills Demonstrated",
+    "text": "1.4 Skills Demonstrated\n\nData import and cleaning in R\n\nStatistical analysis (t-tests, chi-square, ANOVA, regression)\n\nData exploration and interpretation\n\nReproducible research using Quarto\n\nIntroductory Shiny app development",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Crystal Adote</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/crystal-adote.html#view-full-portfolio",
+    "href": "chapters/crystal-adote.html#view-full-portfolio",
+    "title": "1  Crystal Adote",
+    "section": "1.5 View Full Portfolio",
+    "text": "1.5 View Full Portfolio\n👉 Explore Crystal’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Crystal Adote</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/jonah-dratfield.html",
+    "href": "chapters/jonah-dratfield.html",
+    "title": "2  Jonah Dratfield",
+    "section": "",
+    "text": "2.1 About the Author\nJonah Dratfield is a graduate student at Brooklyn College who developed a strong foundation in statistical programming and data analysis through hands-on work in R. His portfolio reflects both his technical growth and his ability to connect data analysis to meaningful research questions.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/jonah-dratfield.html#learning-journey",
+    "href": "chapters/jonah-dratfield.html#learning-journey",
+    "title": "2  Jonah Dratfield",
+    "section": "2.2 Learning Journey",
+    "text": "2.2 Learning Journey\nThis portfolio showcases a series of assignments completed as part of a graduate course in reproducible research. Through this work, Jonah built experience using R to analyze a variety of datasets and to create clear, informative visualizations.\nBeyond technical execution, his work highlights an evolving ability to approach data analytically—using statistical methods not just to produce results, but to better understand and interpret underlying patterns.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/jonah-dratfield.html#reflection-growth",
+    "href": "chapters/jonah-dratfield.html#reflection-growth",
+    "title": "2  Jonah Dratfield",
+    "section": "2.3 Reflection & Growth",
+    "text": "2.3 Reflection & Growth\nAt the start of the semester, Jonah had little experience working with R. Over time, he developed confidence not only in performing statistical analyses, but also in independently learning new techniques and troubleshooting challenges.\nOne of the biggest hurdles early on was navigating a new programming language and making sense of its structure. However, as the course progressed—particularly when working with R Markdown—he began to see how each part of the workflow connected to broader analytical questions. This shift allowed the process to “click,” transforming individual tasks into a cohesive analytical approach.\nJonah identifies as an idea-driven thinker, and this perspective became a strength in his work. By focusing on how each analysis addressed a specific question, he was able to deepen both his understanding and the quality of his interpretations.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/jonah-dratfield.html#key-takeaways",
+    "href": "chapters/jonah-dratfield.html#key-takeaways",
+    "title": "2  Jonah Dratfield",
+    "section": "2.4 Key Takeaways",
+    "text": "2.4 Key Takeaways\n\nDeveloped a strong foundational understanding of R\n\nBuilt confidence in self-directed learning and problem-solving\n\nApplied statistical analyses to generate meaningful insights from data\n\nStrengthened ability to interpret and communicate nuanced findings",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/jonah-dratfield.html#looking-ahead",
+    "href": "chapters/jonah-dratfield.html#looking-ahead",
+    "title": "2  Jonah Dratfield",
+    "section": "2.5 Looking Ahead",
+    "text": "2.5 Looking Ahead\nJonah plans to continue using R in his thesis and future research projects. While his adviser primarily uses Excel and SPSS, he sees R as an opportunity to streamline analyses and expand the depth of his work.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/jonah-dratfield.html#view-full-portfolio",
+    "href": "chapters/jonah-dratfield.html#view-full-portfolio",
+    "title": "2  Jonah Dratfield",
+    "section": "2.6 View Full Portfolio",
+    "text": "2.6 View Full Portfolio\n👉 Explore Jonah’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Jonah Dratfield</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/joyce-escatel-flores.html",
+    "href": "chapters/joyce-escatel-flores.html",
+    "title": "3  Joyce Escatel-Flores",
+    "section": "",
+    "text": "3.1 About the Author\nJoyce is a graduate student at Brooklyn College who, over the course of the semester, transformed her perspective on coding and data analysis. Her work reflects both technical development and a significant increase in confidence as she learned to approach programming with curiosity rather than hesitation.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/joyce-escatel-flores.html#learning-journey",
+    "href": "chapters/joyce-escatel-flores.html#learning-journey",
+    "title": "3  Joyce Escatel-Flores",
+    "section": "3.2 Learning Journey",
+    "text": "3.2 Learning Journey\nAt the beginning of the course, Joyce was apprehensive about learning R due to a prior experience that made the language feel overwhelming and difficult to follow. This initial hesitation shaped her expectations, but as the semester progressed, she steadily built both her skills and her confidence.\nThrough hands-on assignments, Joyce learned how to analyze data in R, create clear and visually engaging graphs and tables, and develop reproducible workflows using Markdown. Beyond technical skills, the course helped reinforce her understanding of statistical concepts by making them more concrete and applicable.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/joyce-escatel-flores.html#reflection-growth",
+    "href": "chapters/joyce-escatel-flores.html#reflection-growth",
+    "title": "3  Joyce Escatel-Flores",
+    "section": "3.3 Reflection & Growth",
+    "text": "3.3 Reflection & Growth\nOne of the most meaningful changes for Joyce was the shift in how she viewed herself as a learner. What began as uncertainty evolved into confidence—she now feels capable of starting coding projects from scratch and continuing to develop her skills independently.\nThe coursework itself was challenging, often requiring significant time and effort to complete. As a self-described perfectionist, Joyce dedicated hours—sometimes days—to refining her assignments. However, this persistence paid off, helping her retain what she learned and deepen her understanding.\nShe is especially proud of her ability to create and publish Markdown documents, which serve as a tangible representation of her progress. Revisiting these projects allows her to see how far she has come over the course of the semester.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/joyce-escatel-flores.html#key-takeaways",
+    "href": "chapters/joyce-escatel-flores.html#key-takeaways",
+    "title": "3  Joyce Escatel-Flores",
+    "section": "3.4 Key Takeaways",
+    "text": "3.4 Key Takeaways\n\nOvercame initial fear of coding and built lasting confidence\n\nDeveloped skills in data analysis, visualization, and reproducible workflows\n\nStrengthened understanding of statistical concepts through applied work\n\nGained experience creating and publishing Markdown-based projects",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/joyce-escatel-flores.html#looking-ahead",
+    "href": "chapters/joyce-escatel-flores.html#looking-ahead",
+    "title": "3  Joyce Escatel-Flores",
+    "section": "3.5 Looking Ahead",
+    "text": "3.5 Looking Ahead\nJoyce plans to continue practicing R beyond the course and hopes to further refine her work in future projects, including potential contributions to Open Data Week. She is motivated to keep building on the strong foundation she developed this semester.\n\n“I feel more confident and not scared to start coding something from scratch on my own.”",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/joyce-escatel-flores.html#view-full-portfolio",
+    "href": "chapters/joyce-escatel-flores.html#view-full-portfolio",
+    "title": "3  Joyce Escatel-Flores",
+    "section": "3.6 View Full Portfolio",
+    "text": "3.6 View Full Portfolio\n👉 Explore Joyce’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Joyce Escatel-Flores</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/robert-hutto.html",
+    "href": "chapters/robert-hutto.html",
+    "title": "4  Robert Hutto",
+    "section": "",
+    "text": "4.1 About the Author\nRob is a graduate student at Brooklyn College who developed a structured and thoughtful approach to data analysis over the course of the semester. His work reflects a transition from fragmented coding practices to a more intentional, reproducible workflow in R.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/robert-hutto.html#learning-journey",
+    "href": "chapters/robert-hutto.html#learning-journey",
+    "title": "4  Robert Hutto",
+    "section": "4.2 Learning Journey",
+    "text": "4.2 Learning Journey\nAt the start of the course, Rob had some prior exposure to RStudio through independent research, but his approach lacked organization and clarity. Much of his work involved copying and pasting code—often with limited understanding of how individual components functioned—resulting in scripts that were difficult to interpret or maintain.\nThrough consistent practice and guided assignments, he developed a more systematic approach to working with data. His portfolio demonstrates the ability to import, clean, and prepare datasets from multiple sources, conduct statistical analyses such as t-tests, ANOVAs, and regression models, and create clear visualizations using tables and graphs.\nJust as importantly, he learned to structure his work in a way that is readable and interpretable by others, allowing both himself and collaborators to better understand analytical workflows.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/robert-hutto.html#reflection-growth",
+    "href": "chapters/robert-hutto.html#reflection-growth",
+    "title": "4  Robert Hutto",
+    "section": "4.3 Reflection & Growth",
+    "text": "4.3 Reflection & Growth\nOne of Rob’s most significant areas of growth was moving from simply executing code to truly understanding it. This shift enabled him to build more organized, transparent, and reproducible analyses.\nHe also developed a strong ability to identify and communicate meaningful patterns within data—transforming raw datasets into clear, interpretable stories. This skill represents a key step beyond technical execution and into applied data analysis.\nA recurring challenge throughout the course was managing expectations around assignments. Tasks that initially appeared straightforward often required significant time to debug and refine, reinforcing the importance of patience and persistence in programming.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/robert-hutto.html#advice-for-future-students",
+    "href": "chapters/robert-hutto.html#advice-for-future-students",
+    "title": "4  Robert Hutto",
+    "section": "4.4 Advice for Future Students",
+    "text": "4.4 Advice for Future Students\n\nDon’t underestimate seemingly simple tasks. Budget extra time for troubleshooting. What looks like a 30-minute assignment can easily become a multiple-hour debugging session—even with the help of AI. That’s part of the learning process.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/robert-hutto.html#key-takeaways",
+    "href": "chapters/robert-hutto.html#key-takeaways",
+    "title": "4  Robert Hutto",
+    "section": "4.5 Key Takeaways",
+    "text": "4.5 Key Takeaways\n\nTransitioned from unstructured coding to organized, reproducible workflows\n\nDeveloped proficiency in data cleaning, analysis, and visualization\n\nImproved ability to read, understand, and communicate code\n\nStrengthened skills in extracting and explaining insights from data",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/robert-hutto.html#view-full-portfolio",
+    "href": "chapters/robert-hutto.html#view-full-portfolio",
+    "title": "4  Robert Hutto",
+    "section": "4.6 View Full Portfolio",
+    "text": "4.6 View Full Portfolio\n👉 Explore Rob’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Robert Hutto</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/isley-jean-pierre.html",
+    "href": "chapters/isley-jean-pierre.html",
+    "title": "5  Isley Jean-Pierre",
+    "section": "",
+    "text": "5.1 About the Author\nIsley is a graduate student at Brooklyn College whose work reflects a strong engagement with data analysis and reproducible research. Her portfolio represents the culmination of a semester of hands-on learning in R, showcasing both technical development and enthusiasm for applying these skills in future projects.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/isley-jean-pierre.html#learning-journey",
+    "href": "chapters/isley-jean-pierre.html#learning-journey",
+    "title": "5  Isley Jean-Pierre",
+    "section": "5.2 Learning Journey",
+    "text": "5.2 Learning Journey\nThis portfolio brings together a series of assignments completed as part of a course in Reproducible Psychology Research. Each section highlights a different stage of the data analysis process, from foundational R scripting to more advanced statistical techniques and reproducible workflows.\nOver the course of the semester, Isley developed experience working with a range of analytical methods, including correlation analysis and ANOVA, while also building skills in creating and submitting work using R Markdown and Shiny. Her portfolio reflects not just individual assignments, but a continuous progression of learning and application.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/isley-jean-pierre.html#reflection-growth",
+    "href": "chapters/isley-jean-pierre.html#reflection-growth",
+    "title": "5  Isley Jean-Pierre",
+    "section": "5.3 Reflection & Growth",
+    "text": "5.3 Reflection & Growth\nThis project represents the culmination of Isley’s work throughout the semester and stands out as one of the most meaningful and engaging assignments in the course. It captures both the breadth of skills she developed and her ability to bring them together into a cohesive, reproducible body of work.\nEach section of the portfolio tells the story of her growth—demonstrating how initial exposure to R evolved into the ability to perform analyses, build reproducible documents, and create interactive outputs.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/isley-jean-pierre.html#key-takeaways",
+    "href": "chapters/isley-jean-pierre.html#key-takeaways",
+    "title": "5  Isley Jean-Pierre",
+    "section": "5.4 Key Takeaways",
+    "text": "5.4 Key Takeaways\n\nBuilt a strong foundation in R programming and data analysis\n\nApplied statistical methods such as correlation and ANOVA\n\nDeveloped reproducible workflows using R Markdown\n\nGained experience creating interactive outputs with Shiny\n\nSynthesized semester-long work into a cohesive portfolio",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/isley-jean-pierre.html#looking-ahead",
+    "href": "chapters/isley-jean-pierre.html#looking-ahead",
+    "title": "5  Isley Jean-Pierre",
+    "section": "5.5 Looking Ahead",
+    "text": "5.5 Looking Ahead\nIsley is excited to apply the skills she developed in this course to future projects. Her portfolio reflects both her current abilities and her readiness to continue building on this foundation.\n\n“Each section tells the journey of what I have learned and what I hope to apply in my future projects.”",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/isley-jean-pierre.html#view-full-portfolio",
+    "href": "chapters/isley-jean-pierre.html#view-full-portfolio",
+    "title": "5  Isley Jean-Pierre",
+    "section": "5.6 View Full Portfolio",
+    "text": "5.6 View Full Portfolio\n👉 Explore Isley’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Isley Jean-Pierre</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/shannon-joyce.html",
+    "href": "chapters/shannon-joyce.html",
+    "title": "6  Shannon Joyce",
+    "section": "",
+    "text": "6.1 About the Author\nShannon is a graduate student at Brooklyn College who developed a comprehensive skill set in data analysis and reproducible research over the course of the semester. Her work reflects a strong ability to move from raw data to meaningful insights using structured, reproducible workflows in R.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/shannon-joyce.html#learning-journey",
+    "href": "chapters/shannon-joyce.html#learning-journey",
+    "title": "6  Shannon Joyce",
+    "section": "6.2 Learning Journey",
+    "text": "6.2 Learning Journey\nThis portfolio is a compilation of assignments completed in a graduate course on Reproducible Psychological Research. Across these projects, Shannon demonstrates proficiency in writing and executing R scripts, cleaning and transforming real-world datasets, and conducting statistical analyses.\nHer work spans the full data analysis pipeline—from data import and wrangling to modeling, visualization, and communication. She developed experience using tools from the :contentReferenceoaicite:0 to efficiently manipulate data, including filtering, grouping, summarizing, and joining datasets in preparation for analysis.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/shannon-joyce.html#reflection-growth",
+    "href": "chapters/shannon-joyce.html#reflection-growth",
+    "title": "6  Shannon Joyce",
+    "section": "6.3 Reflection & Growth",
+    "text": "6.3 Reflection & Growth\nAt the beginning of the course, Shannon had limited experience with R. Early efforts focused on building foundational skills and becoming comfortable working within the RStudio environment. By the end of the semester, she was able to independently complete full analytical workflows—moving from raw data to statistical modeling and clear interpretation.\nA key area of growth was working with real datasets, which often required substantial cleaning and restructuring before analysis. Shannon developed skills in inspecting variables, recoding values, handling missing data, and reshaping datasets into formats suitable for analysis. These steps were essential in ensuring the accuracy and validity of her results.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/shannon-joyce.html#analytical-skills-techniques",
+    "href": "chapters/shannon-joyce.html#analytical-skills-techniques",
+    "title": "6  Shannon Joyce",
+    "section": "6.4 Analytical Skills & Techniques",
+    "text": "6.4 Analytical Skills & Techniques\nThroughout the semester, Shannon gained experience applying a wide range of statistical methods, including:\n\nt-tests for comparing group means\n\nANOVAs for analyzing differences across multiple groups\n\nCorrelation matrices for exploring relationships between variables\n\nRegression models for prediction and explanation\n\nShe also learned to evaluate model outputs holistically, considering multiple variables and metrics rather than relying on a single statistic.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/shannon-joyce.html#communication-visualization",
+    "href": "chapters/shannon-joyce.html#communication-visualization",
+    "title": "6  Shannon Joyce",
+    "section": "6.5 Communication & Visualization",
+    "text": "6.5 Communication & Visualization\nIn addition to statistical analysis, Shannon strengthened her ability to communicate results clearly and effectively. She learned to translate statistical findings into plain language, connecting results back to the original research questions.\nHer portfolio includes data visualizations created with :contentReferenceoaicite:1, as well as reproducible reports built using :contentReferenceoaicite:2. These tools allowed her to integrate code, output, and narrative into cohesive, shareable documents.\nShe also explored interactive data presentation through the development of a Shiny application.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/shannon-joyce.html#key-takeaways",
+    "href": "chapters/shannon-joyce.html#key-takeaways",
+    "title": "6  Shannon Joyce",
+    "section": "6.6 Key Takeaways",
+    "text": "6.6 Key Takeaways\n\nBuilt end-to-end data analysis workflows in R\n\nDeveloped strong data cleaning and transformation skills\n\nApplied a range of statistical and predictive modeling techniques\n\nStrengthened ability to interpret and communicate results\n\nCreated reproducible reports and interactive applications",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/shannon-joyce.html#looking-ahead",
+    "href": "chapters/shannon-joyce.html#looking-ahead",
+    "title": "6  Shannon Joyce",
+    "section": "6.7 Looking Ahead",
+    "text": "6.7 Looking Ahead\nShannon now feels confident continuing to build on these skills in future academic and professional work. Her portfolio reflects both a strong technical foundation and the ability to apply data analysis to meaningful questions.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/shannon-joyce.html#view-full-portfolio",
+    "href": "chapters/shannon-joyce.html#view-full-portfolio",
+    "title": "6  Shannon Joyce",
+    "section": "6.8 View Full Portfolio",
+    "text": "6.8 View Full Portfolio\n👉 Explore Shannon’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Shannon Joyce</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/emma-tupone.html",
+    "href": "chapters/emma-tupone.html",
+    "title": "7  Emma Tupone",
+    "section": "",
+    "text": "7.1 About the Author\nEmma is a graduate student at Brooklyn College whose work reflects a strong foundation in psychological research and data analysis. Her portfolio demonstrates both technical proficiency and the ability to apply reproducible research practices to a wide range of real-world datasets.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/emma-tupone.html#learning-journey",
+    "href": "chapters/emma-tupone.html#learning-journey",
+    "title": "7  Emma Tupone",
+    "section": "7.2 Learning Journey",
+    "text": "7.2 Learning Journey\nThis portfolio presents a collection of data analysis projects completed as part of a graduate course in Reproducible Psychological Research. Across chapters, Emma applies reproducible workflows in R to diverse datasets, including public health records, socioeconomic indicators, sports analytics, and behavioral data.\nHer work highlights core competencies in data cleaning, visualization, statistical inference, and predictive modeling, all integrated through reproducible reporting tools such as :contentReferenceoaicite:0 and Shiny.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/emma-tupone.html#reflection-growth",
+    "href": "chapters/emma-tupone.html#reflection-growth",
+    "title": "7  Emma Tupone",
+    "section": "7.3 Reflection & Growth",
+    "text": "7.3 Reflection & Growth\nOver the course of the semester, Emma significantly deepened her understanding of both data analysis and research methodology. Through hands-on projects, she built skills in manipulating and cleaning data, visualizing patterns, and applying statistical techniques to answer meaningful research questions.\nShe developed proficiency using :contentReferenceoaicite:1 to create clear and informative visualizations, and gained experience with statistical methods including t-tests, ANOVAs, chi-square tests, and logistic regression. Beyond execution, she strengthened her ability to interpret results thoughtfully and connect findings to real-world implications.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/emma-tupone.html#challenges-problem-solving",
+    "href": "chapters/emma-tupone.html#challenges-problem-solving",
+    "title": "7  Emma Tupone",
+    "section": "7.4 Challenges & Problem Solving",
+    "text": "7.4 Challenges & Problem Solving\nEmma encountered several challenges throughout the semester, including:\n\nDebugging complex R code, particularly when working with large datasets or interactive components\n\nInterpreting nuanced statistical outputs such as residuals, effect sizes, and model diagnostics\n\nSynthesizing insights across multiple assignments into cohesive conclusions\n\nAddressing these challenges required persistence, iterative testing, and careful attention to both coding and statistical reasoning.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/emma-tupone.html#achievements",
+    "href": "chapters/emma-tupone.html#achievements",
+    "title": "7  Emma Tupone",
+    "section": "7.5 Achievements",
+    "text": "7.5 Achievements\nEmma is especially proud of completing her Bookdown portfolio, which integrates multiple assignments into a cohesive and polished body of work. This project reflects her ability to combine reproducible code, clear visualizations, and well-structured interpretations.\nNotable accomplishments include:\n\nDeveloping interactive visualizations using Shiny\n\nConducting advanced analyses such as logistic regression and chi-square contribution analysis\n\nMaintaining clarity and consistency across chapters in both code and communication",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/emma-tupone.html#key-takeaways",
+    "href": "chapters/emma-tupone.html#key-takeaways",
+    "title": "7  Emma Tupone",
+    "section": "7.6 Key Takeaways",
+    "text": "7.6 Key Takeaways\n\nBuilt strong skills in data cleaning, visualization, and statistical modeling\n\nDeveloped the ability to interpret and communicate complex results\n\nGained experience working with diverse, real-world datasets\n\nStrengthened reproducible research practices through integrated workflows",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/emma-tupone.html#looking-ahead",
+    "href": "chapters/emma-tupone.html#looking-ahead",
+    "title": "7  Emma Tupone",
+    "section": "7.7 Looking Ahead",
+    "text": "7.7 Looking Ahead\nEmma leaves the course with increased confidence in her ability to independently explore and analyze data, select appropriate statistical methods, and communicate findings in a clear and professional manner. She is well-prepared to apply these skills in future research, coursework, and professional settings.\n\n“This semester reinforced the value of persistence, curiosity, and attention to detail in research.”",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/emma-tupone.html#view-full-portfolio",
+    "href": "chapters/emma-tupone.html#view-full-portfolio",
+    "title": "7  Emma Tupone",
+    "section": "7.8 View Full Portfolio",
+    "text": "7.8 View Full Portfolio\n👉 Explore Emma’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Emma Tupone</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/xinru-wang.html",
+    "href": "chapters/xinru-wang.html",
+    "title": "8  Xinru Wang",
+    "section": "",
+    "text": "8.1 About the Author\nXinru is a graduate student at Brooklyn College who developed a strong foundation in data analysis and reproducible research over the course of the semester. Her work reflects both technical growth and an increasing confidence in applying R to real-world datasets.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/xinru-wang.html#learning-journey",
+    "href": "chapters/xinru-wang.html#learning-journey",
+    "title": "8  Xinru Wang",
+    "section": "8.2 Learning Journey",
+    "text": "8.2 Learning Journey\nThis portfolio brings together a series of applied data analysis projects developed using R and Quarto. Across these assignments, Xinru worked through the full data analysis process—from loading and cleaning data to statistical modeling, visualization, and interpretation.\nHer work highlights key skills such as preparing datasets by handling missing values, recoding variables, and transforming data into usable formats. She also gained experience running statistical analyses to explore patterns and answer research questions, as well as creating visualizations that clearly communicate results.\nThrough the use of reproducible workflows, she learned how to connect code, output, and written interpretation into cohesive analytical reports.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/xinru-wang.html#reflection-growth",
+    "href": "chapters/xinru-wang.html#reflection-growth",
+    "title": "8  Xinru Wang",
+    "section": "8.3 Reflection & Growth",
+    "text": "8.3 Reflection & Growth\nOver the course of the semester, Xinru became increasingly confident in her coding abilities. While she initially felt uncertain about her skill level, repeated practice and project-based learning helped her build a strong foundation in R.\nOne of the more challenging aspects of the course was understanding the logic behind functions—particularly when writing her own. This pushed her to think more deeply about how code is structured and how different components interact within an analysis.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/xinru-wang.html#strengths-achievements",
+    "href": "chapters/xinru-wang.html#strengths-achievements",
+    "title": "8  Xinru Wang",
+    "section": "8.4 Strengths & Achievements",
+    "text": "8.4 Strengths & Achievements\nXinru is especially proud of the data visualizations she created. Being able to clearly communicate results through visual outputs—and share those insights with others—helped her recognize the practical value of her skills as a data analyst.\nHer portfolio demonstrates the ability to move from raw data to meaningful, interpretable results while maintaining clarity and reproducibility throughout the process.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/xinru-wang.html#key-takeaways",
+    "href": "chapters/xinru-wang.html#key-takeaways",
+    "title": "8  Xinru Wang",
+    "section": "8.5 Key Takeaways",
+    "text": "8.5 Key Takeaways\n\nDeveloped end-to-end data analysis workflows in R\n\nBuilt strong skills in data cleaning, transformation, and visualization\n\nGained experience with statistical modeling and interpretation\n\nStrengthened understanding of reproducible reporting using Quarto\n\nIncreased confidence in independently learning new tools and techniques",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/xinru-wang.html#looking-ahead",
+    "href": "chapters/xinru-wang.html#looking-ahead",
+    "title": "8  Xinru Wang",
+    "section": "8.6 Looking Ahead",
+    "text": "8.6 Looking Ahead\nWith a solid foundation in place, Xinru plans to continue expanding her skills by exploring new R packages and applying her knowledge to additional datasets and research questions.\n\n“Each chapter reflects a step in my learning process, showing how I moved from raw data to meaningful, interpretable results.”",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/xinru-wang.html#view-full-portfolio",
+    "href": "chapters/xinru-wang.html#view-full-portfolio",
+    "title": "8  Xinru Wang",
+    "section": "8.7 View Full Portfolio",
+    "text": "8.7 View Full Portfolio\n👉 Explore Xinru’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Xinru Wang</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/laura-rose-werner.html",
+    "href": "chapters/laura-rose-werner.html",
+    "title": "9  Laura Rose Werner",
+    "section": "",
+    "text": "9.1 About the Author\nLaura is a graduate student at Brooklyn College whose work reflects a strong emphasis on reproducible research, statistical reasoning, and professional data communication. Her portfolio is designed not just as a collection of assignments, but as a polished analytical artifact suitable for academic and professional audiences.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/laura-rose-werner.html#learning-journey",
+    "href": "chapters/laura-rose-werner.html#learning-journey",
+    "title": "9  Laura Rose Werner",
+    "section": "9.2 Learning Journey",
+    "text": "9.2 Learning Journey\nThis portfolio presents a series of applied data analyses developed using Quarto. Across chapters, Laura works with diverse real-world datasets, including crime data, civic complaints, demographic indicators, sports analytics, and behavioral data.\nEach project follows a consistent analytical workflow: - Data cleaning and preparation\n- Visualization and exploration\n- Statistical testing or modeling\n- Clear interpretation of results\nHer work demonstrates the ability to move systematically from raw data to meaningful, well-communicated insights.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/laura-rose-werner.html#reflection-growth",
+    "href": "chapters/laura-rose-werner.html#reflection-growth",
+    "title": "9  Laura Rose Werner",
+    "section": "9.3 Reflection & Growth",
+    "text": "9.3 Reflection & Growth\nA defining feature of Laura’s work is her transition from assignment-based analysis to intentional, structured communication. This portfolio represents an evolution from an earlier Bookdown project into a refined Quarto-based publication.\nRather than simply completing analyses, she focused on improving: - clarity of interpretation\n- organization of code and outputs\n- reproducibility of results\n- overall presentation and readability\nThis shift reflects a deeper understanding of what it means to produce high-quality analytical work.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/laura-rose-werner.html#strengths-achievements",
+    "href": "chapters/laura-rose-werner.html#strengths-achievements",
+    "title": "9  Laura Rose Werner",
+    "section": "9.4 Strengths & Achievements",
+    "text": "9.4 Strengths & Achievements\nLaura’s portfolio stands out for its breadth of applied analyses and its consistency in execution. Projects include:\n\nNYC crime and shooting analyses\n\nNYC 311 complaint data with interactive Shiny components\n\nIncome prediction using regression models\n\nStreaming behavior using chi-square analysis\n\nSports analytics using NBA data\n\nAcross all projects, she demonstrates the ability to produce publication-quality tables and visualizations while maintaining fully reproducible workflows.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/laura-rose-werner.html#key-takeaways",
+    "href": "chapters/laura-rose-werner.html#key-takeaways",
+    "title": "9  Laura Rose Werner",
+    "section": "9.5 Key Takeaways",
+    "text": "9.5 Key Takeaways\n\nDeveloped strong reproducible workflows using Quarto\n\nStrengthened statistical reasoning and interpretation\n\nBuilt experience across multiple domains and datasets\n\nImproved clarity and professionalism in analytical communication\n\nCreated a portfolio suitable for academic and professional review",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/laura-rose-werner.html#what-this-portfolio-demonstrates",
+    "href": "chapters/laura-rose-werner.html#what-this-portfolio-demonstrates",
+    "title": "9  Laura Rose Werner",
+    "section": "9.6 What This Portfolio Demonstrates",
+    "text": "9.6 What This Portfolio Demonstrates\nLaura’s work highlights the ability to go beyond running statistical tests and instead focus on communicating meaningful, well-supported insights. Her portfolio emphasizes transparency, structure, and reproducibility—key components of modern data analysis and research.\n\n“This portfolio demonstrates my ability to move beyond running statistical tests and toward communicating meaningful insights in a structured, reproducible way.”",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/laura-rose-werner.html#view-full-portfolio",
+    "href": "chapters/laura-rose-werner.html#view-full-portfolio",
+    "title": "9  Laura Rose Werner",
+    "section": "9.7 View Full Portfolio",
+    "text": "9.7 View Full Portfolio\n👉 Explore Laura’s Full Portfolio Book",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Laura Rose Werner</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#contributors",
+    "href": "index.html#contributors",
+    "title": "Reproducible Research Using R: Student Work in Practice",
+    "section": "Contributors",
+    "text": "Contributors\nThe following students developed portfolio books as part of the Spring 2026 offering of Reproducible Research Using R at Brooklyn College. Each chapter in this volume introduces a student and provides a link to their full Quarto portfolio.\n\nCrystal Adote — View Chapter\n\nJonah Dratfield — View Chapter\nJoyce Escatel-Flores — View Chapter\nRobert Hutto — View Chapter\nIsley Jean-Pierre — View Chapter\nShannon Joyce — View Chapter\nEmma Tupone — View Chapter\nXinru Wang — View Chapter\nLaura Rose Werner — View Chapter",
+    "crumbs": [
+      "Reproducible Research in Practice"
+    ]
+  }
+]

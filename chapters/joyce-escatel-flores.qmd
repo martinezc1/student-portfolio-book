@@ -1,0 +1,38 @@
+---
+title: "Joyce Escatel-Flores"
+---
+
+## About the Author {#sec-joyce}
+
+Joyce is a graduate student at Brooklyn College who, over the course of the semester, transformed her perspective on coding and data analysis. Her work reflects both technical development and a significant increase in confidence as she learned to approach programming with curiosity rather than hesitation.
+
+## Learning Journey
+
+At the beginning of the course, Joyce was apprehensive about learning R due to a prior experience that made the language feel overwhelming and difficult to follow. This initial hesitation shaped her expectations, but as the semester progressed, she steadily built both her skills and her confidence.
+
+Through hands-on assignments, Joyce learned how to analyze data in R, create clear and visually engaging graphs and tables, and develop reproducible workflows using Markdown. Beyond technical skills, the course helped reinforce her understanding of statistical concepts by making them more concrete and applicable.
+
+## Reflection & Growth
+
+One of the most meaningful changes for Joyce was the shift in how she viewed herself as a learner. What began as uncertainty evolved into confidence—she now feels capable of starting coding projects from scratch and continuing to develop her skills independently.
+
+The coursework itself was challenging, often requiring significant time and effort to complete. As a self-described perfectionist, Joyce dedicated hours—sometimes days—to refining her assignments. However, this persistence paid off, helping her retain what she learned and deepen her understanding.
+
+She is especially proud of her ability to create and publish Markdown documents, which serve as a tangible representation of her progress. Revisiting these projects allows her to see how far she has come over the course of the semester.
+
+## Key Takeaways
+
+- Overcame initial fear of coding and built lasting confidence\
+- Developed skills in data analysis, visualization, and reproducible workflows\
+- Strengthened understanding of statistical concepts through applied work\
+- Gained experience creating and publishing Markdown-based projects
+
+## Looking Ahead
+
+Joyce plans to continue practicing R beyond the course and hopes to further refine her work in future projects, including potential contributions to Open Data Week. She is motivated to keep building on the strong foundation she developed this semester.
+
+> “I feel more confident and not scared to start coding something from scratch on my own.”
+
+## View Full Portfolio
+
+👉 [**Explore Joyce’s Full Portfolio Book**](https://019b258d-5aa7-808d-5e9a-390d682dbaed.share.connect.posit.cloud/reflection-2.html)

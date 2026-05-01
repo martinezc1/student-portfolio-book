@@ -1,0 +1,36 @@
+---
+title: "Jonah Dratfield"
+---
+
+## About the Author {#sec-jonah}
+
+Jonah Dratfield is a graduate student at Brooklyn College who developed a strong foundation in statistical programming and data analysis through hands-on work in R. His portfolio reflects both his technical growth and his ability to connect data analysis to meaningful research questions.
+
+## Learning Journey
+
+This portfolio showcases a series of assignments completed as part of a graduate course in reproducible research. Through this work, Jonah built experience using R to analyze a variety of datasets and to create clear, informative visualizations.
+
+Beyond technical execution, his work highlights an evolving ability to approach data analytically—using statistical methods not just to produce results, but to better understand and interpret underlying patterns.
+
+## Reflection & Growth
+
+At the start of the semester, Jonah had little experience working with R. Over time, he developed confidence not only in performing statistical analyses, but also in independently learning new techniques and troubleshooting challenges.
+
+One of the biggest hurdles early on was navigating a new programming language and making sense of its structure. However, as the course progressed—particularly when working with R Markdown—he began to see how each part of the workflow connected to broader analytical questions. This shift allowed the process to “click,” transforming individual tasks into a cohesive analytical approach.
+
+Jonah identifies as an idea-driven thinker, and this perspective became a strength in his work. By focusing on how each analysis addressed a specific question, he was able to deepen both his understanding and the quality of his interpretations.
+
+## Key Takeaways
+
+- Developed a strong foundational understanding of R\
+- Built confidence in self-directed learning and problem-solving\
+- Applied statistical analyses to generate meaningful insights from data\
+- Strengthened ability to interpret and communicate nuanced findings
+
+## Looking Ahead
+
+Jonah plans to continue using R in his thesis and future research projects. While his adviser primarily uses Excel and SPSS, he sees R as an opportunity to streamline analyses and expand the depth of his work.
+
+## View Full Portfolio
+
+👉 [**Explore Jonah’s Full Portfolio Book**](https://019c6c0a-422b-4619-247b-d5dc28e84b0a.share.connect.posit.cloud/)

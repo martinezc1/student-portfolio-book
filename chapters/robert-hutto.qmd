@@ -1,0 +1,38 @@
+---
+title: "Robert Hutto"
+---
+
+## About the Author {#sec-robert}
+
+Rob is a graduate student at Brooklyn College who developed a structured and thoughtful approach to data analysis over the course of the semester. His work reflects a transition from fragmented coding practices to a more intentional, reproducible workflow in R.
+
+## Learning Journey
+
+At the start of the course, Rob had some prior exposure to RStudio through independent research, but his approach lacked organization and clarity. Much of his work involved copying and pasting code—often with limited understanding of how individual components functioned—resulting in scripts that were difficult to interpret or maintain.
+
+Through consistent practice and guided assignments, he developed a more systematic approach to working with data. His portfolio demonstrates the ability to import, clean, and prepare datasets from multiple sources, conduct statistical analyses such as t-tests, ANOVAs, and regression models, and create clear visualizations using tables and graphs.
+
+Just as importantly, he learned to structure his work in a way that is readable and interpretable by others, allowing both himself and collaborators to better understand analytical workflows.
+
+## Reflection & Growth
+
+One of Rob’s most significant areas of growth was moving from simply executing code to truly understanding it. This shift enabled him to build more organized, transparent, and reproducible analyses.
+
+He also developed a strong ability to identify and communicate meaningful patterns within data—transforming raw datasets into clear, interpretable stories. This skill represents a key step beyond technical execution and into applied data analysis.
+
+A recurring challenge throughout the course was managing expectations around assignments. Tasks that initially appeared straightforward often required significant time to debug and refine, reinforcing the importance of patience and persistence in programming.
+
+## Advice for Future Students
+
+> Don’t underestimate seemingly simple tasks. Budget extra time for troubleshooting. What looks like a 30-minute assignment can easily become a multiple-hour debugging session—even with the help of AI. That’s part of the learning process.
+
+## Key Takeaways
+
+- Transitioned from unstructured coding to organized, reproducible workflows\
+- Developed proficiency in data cleaning, analysis, and visualization\
+- Improved ability to read, understand, and communicate code\
+- Strengthened skills in extracting and explaining insights from data
+
+## View Full Portfolio
+
+👉 [**Explore Rob’s Full Portfolio Book**](https://posit.cloud/content/11909755)

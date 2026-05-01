@@ -1,0 +1,33 @@
+---
+title: "Crystal Adote"
+---
+
+## About the Author {#sec-crystal}
+
+Crystal Adote is a graduate student at Brooklyn College who developed a strong foundation in data analysis and reproducible research over the course of the semester. Entering the class with little prior experience in R, she built both technical skills and confidence through hands-on work with real datasets.
+
+## Learning Journey
+
+Throughout the semester, Crystal gained experience working across the full data analysis pipeline. She learned how to import and clean datasets, perform statistical analyses, and communicate findings using reproducible workflows.
+
+Her work includes applying a range of statistical techniques such as t-tests, chi-square tests, ANOVAs, linear regression, logistic regression, and correlation analysis. She also explored multiple R packages and developed an interactive Shiny application.
+
+One area she initially found challenging was writing functions in R. However, with practice and persistence, she was able to build a stronger understanding of how functions work and how they can be used effectively in analysis.
+
+## Reflection & Growth
+
+Crystal’s biggest takeaway from the course was the progress she made over time. Starting with little background in R, she is now able to write scripts that import, clean, and analyze real-world datasets.
+
+Her confidence grew significantly throughout the semester, and she developed a strong set of practical skills that she can carry forward into future academic and professional work.
+
+## Skills Demonstrated
+
+- Data import and cleaning in R\
+- Statistical analysis (t-tests, chi-square, ANOVA, regression)\
+- Data exploration and interpretation\
+- Reproducible research using Quarto\
+- Introductory Shiny app development
+
+## View Full Portfolio
+
+👉 [**Explore Crystal’s Full Portfolio Book**](https://martinezc1-nyc-open-data-lab.share.connect.posit.cloud/contributors/crystal-adote.html)

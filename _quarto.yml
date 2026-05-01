@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "Reproducible Research Using R: Student Work in Practice"
+  subtitle: "Student Portfolio Volume I"
+  author: "Christian Martinez"
+
+  chapters:
+    - index.qmd
+    - chapters/crystal-adote.qmd
+    - chapters/jonah-dratfield.qmd
+    - chapters/joyce-escatel-flores.qmd
+    - chapters/robert-hutto.qmd
+    - chapters/isley-jean-pierre.qmd
+    - chapters/shannon-joyce.qmd
+    - chapters/emma-tupone.qmd
+    - chapters/xinru-wang.qmd
+    - chapters/laura-rose-werner.qmd
+
+format:
+  html:
+    theme:
+      - simplex
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

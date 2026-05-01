@@ -1,0 +1,59 @@
+---
+title: "Laura Rose Werner"
+---
+
+## About the Author {#sec-laura}
+
+Laura is a graduate student at Brooklyn College whose work reflects a strong emphasis on reproducible research, statistical reasoning, and professional data communication. Her portfolio is designed not just as a collection of assignments, but as a polished analytical artifact suitable for academic and professional audiences.
+
+## Learning Journey
+
+This portfolio presents a series of applied data analyses developed using Quarto. Across chapters, Laura works with diverse real-world datasets, including crime data, civic complaints, demographic indicators, sports analytics, and behavioral data.
+
+Each project follows a consistent analytical workflow: - Data cleaning and preparation\
+- Visualization and exploration\
+- Statistical testing or modeling\
+- Clear interpretation of results
+
+Her work demonstrates the ability to move systematically from raw data to meaningful, well-communicated insights.
+
+## Reflection & Growth
+
+A defining feature of Laura’s work is her transition from assignment-based analysis to intentional, structured communication. This portfolio represents an evolution from an earlier Bookdown project into a refined Quarto-based publication.
+
+Rather than simply completing analyses, she focused on improving: - clarity of interpretation\
+- organization of code and outputs\
+- reproducibility of results\
+- overall presentation and readability
+
+This shift reflects a deeper understanding of what it means to produce high-quality analytical work.
+
+## Strengths & Achievements
+
+Laura’s portfolio stands out for its breadth of applied analyses and its consistency in execution. Projects include:
+
+- NYC crime and shooting analyses\
+- NYC 311 complaint data with interactive Shiny components\
+- Income prediction using regression models\
+- Streaming behavior using chi-square analysis\
+- Sports analytics using NBA data
+
+Across all projects, she demonstrates the ability to produce publication-quality tables and visualizations while maintaining fully reproducible workflows.
+
+## Key Takeaways
+
+- Developed strong reproducible workflows using Quarto\
+- Strengthened statistical reasoning and interpretation\
+- Built experience across multiple domains and datasets\
+- Improved clarity and professionalism in analytical communication\
+- Created a portfolio suitable for academic and professional review
+
+## What This Portfolio Demonstrates
+
+Laura’s work highlights the ability to go beyond running statistical tests and instead focus on communicating meaningful, well-supported insights. Her portfolio emphasizes transparency, structure, and reproducibility—key components of modern data analysis and research.
+
+> “This portfolio demonstrates my ability to move beyond running statistical tests and toward communicating meaningful insights in a structured, reproducible way.”
+
+## View Full Portfolio
+
+👉 [**Explore Laura’s Full Portfolio Book**](https://019c7ca5-9872-3f70-0ff8-780f5f216b2e.share.connect.posit.cloud/)
