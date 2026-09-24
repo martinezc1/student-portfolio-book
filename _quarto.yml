@@ -23,7 +23,7 @@ format:
     theme:
       - simplex
       - brand
-     google-analytics: "G-SBK6TVPL9K"
+    google-analytics: "G-SBK6TVPL9K"
      
   pdf:
     documentclass: scrreprt
